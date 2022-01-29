@@ -35,7 +35,7 @@ int main(int argc, char** argv)
     cout << "c = " << c << endl;
     cout << "d = " << d << endl;
     cout << "q = " << HASH_TABLE_SIZE << endl;
-    cout << end;
+    cout << endl;
 
     BloomFilter b{p, m, c, d};
     
