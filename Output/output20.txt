@@ -1,0 +1,205 @@
+Experiment for values of:
+p = 0.1
+c = 1.1
+d = 0.5
+q = 673
+
+Phase: 1
+Number of false negatives:
+0
+Number of false positives:
+1
+Probabilty of false positive:
+0.01
+False positive elements:
+embarrass
+
+Phase: 2
+Number of false negatives:
+0
+Number of false positives:
+3
+Probabilty of false positive:
+0.03
+False positive elements:
+reading
+scare
+sign
+
+Phase: 3
+Number of false negatives:
+0
+Number of false positives:
+5
+Probabilty of false positive:
+0.05
+False positive elements:
+star
+demonic
+position
+wiggly
+large
+
+Phase: 4
+Number of false negatives:
+0
+Number of false positives:
+5
+Probabilty of false positive:
+0.05
+False positive elements:
+shiny
+giraffe
+hunt
+hilarious
+dusty
+
+Phase: 5
+Number of false negatives:
+0
+Number of false positives:
+9
+Probabilty of false positive:
+0.09
+False positive elements:
+inject
+file
+political
+heat
+able
+mature
+plug
+silk
+front
+
+Phase: 6
+Number of false negatives:
+0
+Number of false positives:
+16
+Probabilty of false positive:
+0.16
+False positive elements:
+cluttered
+ajar
+crazy
+reject
+wacky
+rough
+carpenter
+guide
+gruesome
+crawl
+structure
+hulking
+alive
+desire
+silver
+venomous
+
+Phase: 7
+Number of false negatives:
+0
+Number of false positives:
+15
+Probabilty of false positive:
+0.15
+False positive elements:
+daily
+grate
+addicted
+moldy
+aback
+accidental
+steep
+quirky
+mushy
+innocent
+violent
+abashed
+tail
+super
+stagnation
+
+Phase: 8
+Number of false negatives:
+0
+Number of false positives:
+18
+Probabilty of false positive:
+0.18
+False positive elements:
+distinct
+birds
+feigned
+lowly
+vacation
+undress
+oatmeal
+blimp
+steady
+squirrel
+makeshift
+flat
+stampede
+grumpy
+chivalrous
+business
+object
+punishment
+
+Phase: 9
+Number of false negatives:
+0
+Number of false positives:
+14
+Probabilty of false positive:
+0.14
+False positive elements:
+honey
+spotty
+hurry
+heal
+start
+announce
+damage
+refuse
+vanish
+glue
+poison
+syrup
+curved
+fragile
+
+Phase: 10
+Number of false negatives:
+0
+Number of false positives:
+17
+Probabilty of false positive:
+0.17
+False positive elements:
+pass
+inherent
+unnatural
+numerous
+bit
+bottle
+fireman
+squeak
+protective
+lie
+various
+courageous
+chief
+market
+icy
+frogs
+cause
+
+Number of total false negatives:
+0
+Number of total false positives:
+103
+Probabilty of false positive in total:
+0.103

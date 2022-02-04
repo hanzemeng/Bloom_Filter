@@ -1,0 +1,155 @@
+Experiment for values of:
+p = 0.1
+c = 1.2
+d = 3.5
+q = 673
+
+Phase: 1
+Number of false negatives:
+0
+Number of false positives:
+0
+Probabilty of false positive:
+0
+False positive elements:
+
+Phase: 2
+Number of false negatives:
+0
+Number of false positives:
+0
+Probabilty of false positive:
+0
+False positive elements:
+
+Phase: 3
+Number of false negatives:
+0
+Number of false positives:
+0
+Probabilty of false positive:
+0
+False positive elements:
+
+Phase: 4
+Number of false negatives:
+0
+Number of false positives:
+0
+Probabilty of false positive:
+0
+False positive elements:
+
+Phase: 5
+Number of false negatives:
+0
+Number of false positives:
+1
+Probabilty of false positive:
+0.01
+False positive elements:
+picture
+
+Phase: 6
+Number of false negatives:
+0
+Number of false positives:
+5
+Probabilty of false positive:
+0.05
+False positive elements:
+ajar
+plane
+sea
+grouchy
+ticket
+
+Phase: 7
+Number of false negatives:
+0
+Number of false positives:
+7
+Probabilty of false positive:
+0.07
+False positive elements:
+pan
+queue
+madly
+quirky
+innocent
+wash
+kick
+
+Phase: 8
+Number of false negatives:
+0
+Number of false positives:
+9
+Probabilty of false positive:
+0.09
+False positive elements:
+scientific
+feigned
+undress
+short
+steady
+accept
+whistle
+careless
+brawny
+
+Phase: 9
+Number of false negatives:
+0
+Number of false positives:
+11
+Probabilty of false positive:
+0.11
+False positive elements:
+poised
+heal
+beg
+vanish
+ignorant
+agreement
+rebel
+poison
+monkey
+cap
+sterile
+
+Phase: 10
+Number of false negatives:
+0
+Number of false positives:
+20
+Probabilty of false positive:
+0.2
+False positive elements:
+cable
+pikachu
+pass
+mist
+painful
+delicate
+phone
+breathe
+waves
+hummingbird
+destruction
+exclusive
+squeak
+strange
+protective
+spandex
+semaphore
+chief
+parsimonious
+cause
+
+Number of total false negatives:
+0
+Number of total false positives:
+53
+Probabilty of false positive in total:
+0.053

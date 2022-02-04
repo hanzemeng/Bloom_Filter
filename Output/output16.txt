@@ -1,0 +1,211 @@
+Experiment for values of:
+p = 0.1
+c = 1
+d = 4
+q = 673
+
+Phase: 1
+Number of false negatives:
+0
+Number of false positives:
+0
+Probabilty of false positive:
+0
+False positive elements:
+
+Phase: 2
+Number of false negatives:
+0
+Number of false positives:
+0
+Probabilty of false positive:
+0
+False positive elements:
+
+Phase: 3
+Number of false negatives:
+0
+Number of false positives:
+0
+Probabilty of false positive:
+0
+False positive elements:
+
+Phase: 4
+Number of false negatives:
+0
+Number of false positives:
+0
+Probabilty of false positive:
+0
+False positive elements:
+
+Phase: 5
+Number of false negatives:
+0
+Number of false positives:
+1
+Probabilty of false positive:
+0.01
+False positive elements:
+married
+
+Phase: 6
+Number of false negatives:
+0
+Number of false positives:
+8
+Probabilty of false positive:
+0.08
+False positive elements:
+ajar
+plane
+sea
+coast
+black
+allow
+ticket
+special
+
+Phase: 7
+Number of false negatives:
+0
+Number of false positives:
+11
+Probabilty of false positive:
+0.11
+False positive elements:
+decisive
+probability
+observe
+stop
+quickest
+spiky
+quirky
+bouncy
+violent
+bloody
+mend
+
+Phase: 8
+Number of false negatives:
+0
+Number of false positives:
+15
+Probabilty of false positive:
+0.15
+False positive elements:
+unique
+coal
+feigned
+level
+cherry
+undress
+accept
+heartbreaking
+mix
+business
+activity
+careless
+vein
+brawny
+sad
+
+Phase: 9
+Number of false negatives:
+0
+Number of false positives:
+27
+Probabilty of false positive:
+0.27
+False positive elements:
+unlock
+direful
+meal
+poised
+feeling
+cayenne
+beg
+old
+announce
+sun
+bikes
+snobbish
+vanish
+ignorant
+wry
+six
+rebel
+poison
+drink
+syrup
+ghost
+scent
+monkey
+cap
+thrill
+ecco2k
+utopian
+
+Phase: 10
+Number of false negatives:
+0
+Number of false positives:
+47
+Probabilty of false positive:
+0.47
+False positive elements:
+far-flung
+cable
+join
+chubby
+one
+pikachu
+noxious
+pass
+ready
+money
+mist
+mountainous
+delicate
+puffy
+phone
+hover
+numerous
+exotic
+town
+aberrant
+giant
+nose
+analyze
+breathe
+signal
+waves
+hummingbird
+flanders
+fireman
+seashore
+possessive
+exclusive
+trucks
+squeak
+governor
+protective
+lie
+spandex
+semaphore
+chief
+market
+agreeable
+hideous
+sleepy
+faithful
+heady
+cause
+
+Number of total false negatives:
+0
+Number of total false positives:
+109
+Probabilty of false positive in total:
+0.109

@@ -1,0 +1,167 @@
+Experiment for values of:
+p = 0.1
+c = 0.9
+d = 2.5
+q = 673
+
+Phase: 1
+Number of false negatives:
+0
+Number of false positives:
+0
+Probabilty of false positive:
+0
+False positive elements:
+
+Phase: 2
+Number of false negatives:
+0
+Number of false positives:
+0
+Probabilty of false positive:
+0
+False positive elements:
+
+Phase: 3
+Number of false negatives:
+0
+Number of false positives:
+0
+Probabilty of false positive:
+0
+False positive elements:
+
+Phase: 4
+Number of false negatives:
+0
+Number of false positives:
+1
+Probabilty of false positive:
+0.01
+False positive elements:
+jail
+
+Phase: 5
+Number of false negatives:
+0
+Number of false positives:
+3
+Probabilty of false positive:
+0.03
+False positive elements:
+picture
+mature
+front
+
+Phase: 6
+Number of false negatives:
+0
+Number of false positives:
+6
+Probabilty of false positive:
+0.06
+False positive elements:
+ajar
+reaction
+lumber
+coast
+special
+alive
+
+Phase: 7
+Number of false negatives:
+0
+Number of false positives:
+9
+Probabilty of false positive:
+0.09
+False positive elements:
+stop
+spiky
+shiver
+buzz
+innocent
+pastoral
+mend
+solaris
+fang
+
+Phase: 8
+Number of false negatives:
+0
+Number of false positives:
+5
+Probabilty of false positive:
+0.05
+False positive elements:
+nation
+weather
+whistle
+chivalrous
+business
+
+Phase: 9
+Number of false negatives:
+0
+Number of false positives:
+16
+Probabilty of false positive:
+0.16
+False positive elements:
+unlock
+direful
+heal
+old
+vanish
+ignorant
+own
+uppity
+lethal
+kindly
+bostonian
+scent
+cap
+ashamed
+awake
+nut
+
+Phase: 10
+Number of false negatives:
+0
+Number of false positives:
+25
+Probabilty of false positive:
+0.25
+False positive elements:
+unhealthy
+chubby
+pass
+blastoid
+mist
+painful
+sassy
+numerous
+nose
+analyze
+bit
+breathe
+signal
+waves
+hummingbird
+thunder
+fireman
+humdrum
+trucks
+squeak
+strange
+chief
+agreeable
+heady
+cause
+
+Number of total false negatives:
+0
+Number of total false positives:
+65
+Probabilty of false positive in total:
+0.065

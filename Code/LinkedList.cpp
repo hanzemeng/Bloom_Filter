@@ -13,6 +13,7 @@ LinkedList::~LinkedList()
         head = temp;
     }
 }
+
 void LinkedList::prepend(std::string target)
 {
     Node* newNode = new Node{target, nullptr};

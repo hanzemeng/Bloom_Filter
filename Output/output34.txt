@@ -1,0 +1,169 @@
+Experiment for values of:
+p = 0.1
+c = 0.8
+d = 2
+q = 673
+
+Phase: 1
+Number of false negatives:
+0
+Number of false positives:
+0
+Probabilty of false positive:
+0
+False positive elements:
+
+Phase: 2
+Number of false negatives:
+0
+Number of false positives:
+0
+Probabilty of false positive:
+0
+False positive elements:
+
+Phase: 3
+Number of false negatives:
+0
+Number of false positives:
+0
+Probabilty of false positive:
+0
+False positive elements:
+
+Phase: 4
+Number of false negatives:
+0
+Number of false positives:
+1
+Probabilty of false positive:
+0.01
+False positive elements:
+hunt
+
+Phase: 5
+Number of false negatives:
+0
+Number of false positives:
+2
+Probabilty of false positive:
+0.02
+False positive elements:
+heat
+calm
+
+Phase: 6
+Number of false negatives:
+0
+Number of false positives:
+11
+Probabilty of false positive:
+0.11
+False positive elements:
+cluttered
+ajar
+dogs
+crazy
+obsequious
+bliss
+flow
+obtainable
+escape
+ugliest
+cream
+
+Phase: 7
+Number of false negatives:
+0
+Number of false positives:
+12
+Probabilty of false positive:
+0.12
+False positive elements:
+entertaining
+daily
+quarter
+stop
+quickest
+cheer
+steep
+innocent
+violent
+tail
+mend
+bright
+
+Phase: 8
+Number of false negatives:
+0
+Number of false positives:
+11
+Probabilty of false positive:
+0.11
+False positive elements:
+distinct
+legal
+knife
+heron
+lowly
+weather
+things
+flavor
+chivalrous
+business
+object
+
+Phase: 9
+Number of false negatives:
+0
+Number of false positives:
+12
+Probabilty of false positive:
+0.12
+False positive elements:
+impolite
+spotty
+heal
+labored
+turkey
+syrup
+monkey
+sip
+cap
+ashamed
+sterile
+utopian
+
+Phase: 10
+Number of false negatives:
+0
+Number of false positives:
+18
+Probabilty of false positive:
+0.18
+False positive elements:
+cable
+chubby
+one
+pass
+mist
+numerous
+loaf
+bit
+breathe
+waves
+hummingbird
+fireman
+humdrum
+squeak
+courageous
+chief
+market
+heady
+
+Number of total false negatives:
+0
+Number of total false positives:
+67
+Probabilty of false positive in total:
+0.067

@@ -1,0 +1,171 @@
+Experiment for values of:
+p = 0.1
+c = 1
+d = 2.5
+q = 673
+
+Phase: 1
+Number of false negatives:
+0
+Number of false positives:
+0
+Probabilty of false positive:
+0
+False positive elements:
+
+Phase: 2
+Number of false negatives:
+0
+Number of false positives:
+0
+Probabilty of false positive:
+0
+False positive elements:
+
+Phase: 3
+Number of false negatives:
+0
+Number of false positives:
+0
+Probabilty of false positive:
+0
+False positive elements:
+
+Phase: 4
+Number of false negatives:
+0
+Number of false positives:
+1
+Probabilty of false positive:
+0.01
+False positive elements:
+cooperative
+
+Phase: 5
+Number of false negatives:
+0
+Number of false positives:
+1
+Probabilty of false positive:
+0.01
+False positive elements:
+wren
+
+Phase: 6
+Number of false negatives:
+0
+Number of false positives:
+10
+Probabilty of false positive:
+0.1
+False positive elements:
+ajar
+wasteful
+crazy
+bliss
+itch
+lumber
+coast
+crawl
+ugliest
+special
+
+Phase: 7
+Number of false negatives:
+0
+Number of false positives:
+5
+Probabilty of false positive:
+0.05
+False positive elements:
+quarter
+stop
+pastoral
+bloody
+mend
+
+Phase: 8
+Number of false negatives:
+0
+Number of false positives:
+9
+Probabilty of false positive:
+0.09
+False positive elements:
+coal
+legal
+level
+undress
+oatmeal
+heartbreaking
+business
+object
+brawny
+
+Phase: 9
+Number of false negatives:
+0
+Number of false positives:
+19
+Probabilty of false positive:
+0.19
+False positive elements:
+unlock
+direful
+heal
+cayenne
+old
+vanish
+ignorant
+wry
+uppity
+lethal
+agreement
+manage
+bostonian
+drink
+syrup
+ghost
+scent
+cap
+ashamed
+
+Phase: 10
+Number of false negatives:
+0
+Number of false positives:
+24
+Probabilty of false positive:
+0.24
+False positive elements:
+chubby
+one
+pass
+rest
+yak
+mist
+painful
+spiffy
+popcorn
+delicate
+inherent
+numerous
+town
+analyze
+breathe
+hummingbird
+flanders
+fireman
+humdrum
+trucks
+squeak
+protective
+chief
+agreeable
+
+Number of total false negatives:
+0
+Number of total false positives:
+69
+Probabilty of false positive in total:
+0.069

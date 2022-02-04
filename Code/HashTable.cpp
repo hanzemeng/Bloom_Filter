@@ -3,7 +3,7 @@
 unsigned int strToInt(std::string element)
 {
     unsigned int res = 0;
-    unsigned int x = 31;
+    unsigned int x = 29; // 26 lower case English characters, so use 29 (a prime)
     for(int i=0; i<element.size(); i++)
     {
         res += x*res + element[i]-'a';

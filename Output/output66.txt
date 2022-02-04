@@ -1,0 +1,252 @@
+Experiment for values of:
+p = 0.1
+c = 0.8
+d = 4
+q = 673
+
+Phase: 1
+Number of false negatives:
+0
+Number of false positives:
+0
+Probabilty of false positive:
+0
+False positive elements:
+
+Phase: 2
+Number of false negatives:
+0
+Number of false positives:
+0
+Probabilty of false positive:
+0
+False positive elements:
+
+Phase: 3
+Number of false negatives:
+0
+Number of false positives:
+2
+Probabilty of false positive:
+0.02
+False positive elements:
+chin
+cloth
+
+Phase: 4
+Number of false negatives:
+0
+Number of false positives:
+1
+Probabilty of false positive:
+0.01
+False positive elements:
+cooperative
+
+Phase: 5
+Number of false negatives:
+0
+Number of false positives:
+5
+Probabilty of false positive:
+0.05
+False positive elements:
+illegal
+heat
+calm
+perform
+wren
+
+Phase: 6
+Number of false negatives:
+0
+Number of false positives:
+17
+Probabilty of false positive:
+0.17
+False positive elements:
+ajar
+dogs
+purpose
+crazy
+weigh
+valuable
+sea
+temper
+black
+shock
+ticket
+crawl
+vagabond
+hulking
+spare
+alive
+silver
+
+Phase: 7
+Number of false negatives:
+0
+Number of false positives:
+16
+Probabilty of false positive:
+0.16
+False positive elements:
+answer
+probability
+quarter
+insect
+stop
+cheer
+premium
+shiver
+accidental
+grey
+innocent
+violent
+pastoral
+dramatic
+mend
+bright
+
+Phase: 8
+Number of false negatives:
+0
+Number of false positives:
+23
+Probabilty of false positive:
+0.23
+False positive elements:
+birds
+knife
+distribution
+feigned
+heron
+level
+bleach
+undress
+oatmeal
+skip
+sort
+accept
+stale
+ice
+women
+tour
+heartbreaking
+chivalrous
+mix
+business
+object
+concerned
+brawny
+
+Phase: 9
+Number of false negatives:
+0
+Number of false positives:
+34
+Probabilty of false positive:
+0.34
+False positive elements:
+impolite
+direful
+heal
+feeling
+clean
+bomb
+puzzled
+old
+announce
+labored
+ink
+religion
+ignorant
+wry
+past
+uppity
+agreement
+stereotyped
+rebel
+brave
+bostonian
+drink
+turkey
+syrup
+channel
+scent
+monkey
+sip
+cap
+awake
+thrill
+sterile
+utopian
+writing
+
+Phase: 10
+Number of false negatives:
+0
+Number of false positives:
+52
+Probabilty of false positive:
+0.52
+False positive elements:
+cable
+join
+chubby
+monitor
+pikachu
+periodic
+noxious
+pass
+numberless
+rest
+yak
+judge
+mist
+mountainous
+painful
+obtain
+popcorn
+delicate
+puffy
+sassy
+inherent
+numerous
+exotic
+loaf
+town
+gravity
+analyze
+bit
+breathe
+signal
+waves
+hummingbird
+unadvised
+flanders
+useless
+fireman
+top
+seashore
+humdrum
+trucks
+squeak
+strange
+governor
+acidic
+spandex
+chief
+market
+nonstop
+hideous
+sleepy
+heady
+cause
+
+Number of total false negatives:
+0
+Number of total false positives:
+150
+Probabilty of false positive in total:
+0.15

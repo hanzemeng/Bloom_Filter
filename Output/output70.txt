@@ -1,0 +1,160 @@
+Experiment for values of:
+p = 0.1
+c = 1.5
+d = 4
+q = 673
+
+Phase: 1
+Number of false negatives:
+0
+Number of false positives:
+0
+Probabilty of false positive:
+0
+False positive elements:
+
+Phase: 2
+Number of false negatives:
+0
+Number of false positives:
+0
+Probabilty of false positive:
+0
+False positive elements:
+
+Phase: 3
+Number of false negatives:
+0
+Number of false positives:
+0
+Probabilty of false positive:
+0
+False positive elements:
+
+Phase: 4
+Number of false negatives:
+0
+Number of false positives:
+0
+Probabilty of false positive:
+0
+False positive elements:
+
+Phase: 5
+Number of false negatives:
+0
+Number of false positives:
+0
+Probabilty of false positive:
+0
+False positive elements:
+
+Phase: 6
+Number of false negatives:
+0
+Number of false positives:
+2
+Probabilty of false positive:
+0.02
+False positive elements:
+ajar
+valuable
+
+Phase: 7
+Number of false negatives:
+0
+Number of false positives:
+3
+Probabilty of false positive:
+0.03
+False positive elements:
+decisive
+probability
+ruthless
+
+Phase: 8
+Number of false negatives:
+0
+Number of false positives:
+7
+Probabilty of false positive:
+0.07
+False positive elements:
+unique
+level
+sort
+light
+tour
+brawny
+punishment
+
+Phase: 9
+Number of false negatives:
+0
+Number of false positives:
+11
+Probabilty of false positive:
+0.11
+False positive elements:
+unlock
+direful
+poised
+refuse
+sail
+wry
+scratch
+agreement
+turkey
+sip
+awake
+
+Phase: 10
+Number of false negatives:
+0
+Number of false positives:
+35
+Probabilty of false positive:
+0.35
+False positive elements:
+cable
+chubby
+monitor
+pass
+charmander
+money
+mountainous
+delicate
+shelter
+puffy
+phone
+shelf
+inherent
+town
+breathe
+signal
+hummingbird
+thunder
+unadvised
+possessive
+trucks
+squeak
+strange
+governor
+protective
+semaphore
+courageous
+chief
+market
+agreeable
+health
+hideous
+sleepy
+faithful
+cause
+
+Number of total false negatives:
+0
+Number of total false positives:
+58
+Probabilty of false positive in total:
+0.058

@@ -1,0 +1,149 @@
+Experiment for values of:
+p = 0.1
+c = 1
+d = 2
+q = 673
+
+Phase: 1
+Number of false negatives:
+0
+Number of false positives:
+0
+Probabilty of false positive:
+0
+False positive elements:
+
+Phase: 2
+Number of false negatives:
+0
+Number of false positives:
+0
+Probabilty of false positive:
+0
+False positive elements:
+
+Phase: 3
+Number of false negatives:
+0
+Number of false positives:
+0
+Probabilty of false positive:
+0
+False positive elements:
+
+Phase: 4
+Number of false negatives:
+0
+Number of false positives:
+0
+Probabilty of false positive:
+0
+False positive elements:
+
+Phase: 5
+Number of false negatives:
+0
+Number of false positives:
+0
+Probabilty of false positive:
+0
+False positive elements:
+
+Phase: 6
+Number of false negatives:
+0
+Number of false positives:
+10
+Probabilty of false positive:
+0.1
+False positive elements:
+ajar
+wasteful
+plane
+crazy
+bliss
+itch
+coast
+black
+ugliest
+hulking
+
+Phase: 7
+Number of false negatives:
+0
+Number of false positives:
+7
+Probabilty of false positive:
+0.07
+False positive elements:
+entertaining
+quarter
+moldy
+stop
+cheer
+airplane
+pastoral
+
+Phase: 8
+Number of false negatives:
+0
+Number of false positives:
+5
+Probabilty of false positive:
+0.05
+False positive elements:
+distinct
+coal
+scientific
+legal
+light
+
+Phase: 9
+Number of false negatives:
+0
+Number of false positives:
+10
+Probabilty of false positive:
+0.1
+False positive elements:
+direful
+heal
+vanish
+wry
+lethal
+syrup
+ghost
+scent
+cap
+utopian
+
+Phase: 10
+Number of false negatives:
+0
+Number of false positives:
+15
+Probabilty of false positive:
+0.15
+False positive elements:
+far-flung
+chubby
+one
+pass
+mist
+delicate
+numerous
+town
+analyze
+hummingbird
+thunder
+fireman
+humdrum
+squeak
+cause
+
+Number of total false negatives:
+0
+Number of total false positives:
+47
+Probabilty of false positive in total:
+0.047

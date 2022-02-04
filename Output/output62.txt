@@ -1,0 +1,147 @@
+Experiment for values of:
+p = 0.1
+c = 1.5
+d = 3.5
+q = 673
+
+Phase: 1
+Number of false negatives:
+0
+Number of false positives:
+0
+Probabilty of false positive:
+0
+False positive elements:
+
+Phase: 2
+Number of false negatives:
+0
+Number of false positives:
+0
+Probabilty of false positive:
+0
+False positive elements:
+
+Phase: 3
+Number of false negatives:
+0
+Number of false positives:
+0
+Probabilty of false positive:
+0
+False positive elements:
+
+Phase: 4
+Number of false negatives:
+0
+Number of false positives:
+0
+Probabilty of false positive:
+0
+False positive elements:
+
+Phase: 5
+Number of false negatives:
+0
+Number of false positives:
+0
+Probabilty of false positive:
+0
+False positive elements:
+
+Phase: 6
+Number of false negatives:
+0
+Number of false positives:
+3
+Probabilty of false positive:
+0.03
+False positive elements:
+ajar
+plane
+valuable
+
+Phase: 7
+Number of false negatives:
+0
+Number of false positives:
+5
+Probabilty of false positive:
+0.05
+False positive elements:
+decisive
+stop
+ruthless
+terrible
+tail
+
+Phase: 8
+Number of false negatives:
+0
+Number of false positives:
+8
+Probabilty of false positive:
+0.08
+False positive elements:
+unique
+level
+sort
+shaggy
+light
+tour
+brawny
+daffy
+
+Phase: 9
+Number of false negatives:
+0
+Number of false positives:
+10
+Probabilty of false positive:
+0.1
+False positive elements:
+unlock
+poised
+sail
+wry
+agreement
+brave
+sip
+clip
+awake
+nut
+
+Phase: 10
+Number of false negatives:
+0
+Number of false positives:
+19
+Probabilty of false positive:
+0.19
+False positive elements:
+far-flung
+pass
+money
+mountainous
+delicate
+shelter
+inherent
+thunder
+unadvised
+trucks
+squeak
+governor
+semaphore
+courageous
+chief
+market
+health
+faithful
+cause
+
+Number of total false negatives:
+0
+Number of total false positives:
+45
+Probabilty of false positive in total:
+0.045

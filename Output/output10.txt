@@ -1,0 +1,211 @@
+Experiment for values of:
+p = 0.1
+c = 1
+d = 0.5
+q = 673
+
+Phase: 1
+Number of false negatives:
+0
+Number of false positives:
+1
+Probabilty of false positive:
+0.01
+False positive elements:
+embarrass
+
+Phase: 2
+Number of false negatives:
+0
+Number of false positives:
+5
+Probabilty of false positive:
+0.05
+False positive elements:
+reading
+scare
+sniff
+sign
+person
+
+Phase: 3
+Number of false negatives:
+0
+Number of false positives:
+6
+Probabilty of false positive:
+0.06
+False positive elements:
+star
+shut
+doubt
+demonic
+position
+large
+
+Phase: 4
+Number of false negatives:
+0
+Number of false positives:
+4
+Probabilty of false positive:
+0.04
+False positive elements:
+giraffe
+hunt
+hilarious
+dusty
+
+Phase: 5
+Number of false negatives:
+0
+Number of false positives:
+9
+Probabilty of false positive:
+0.09
+False positive elements:
+inject
+interesting
+file
+political
+heat
+mature
+plug
+silk
+front
+
+Phase: 6
+Number of false negatives:
+0
+Number of false positives:
+17
+Probabilty of false positive:
+0.17
+False positive elements:
+cluttered
+ajar
+crazy
+obsequious
+itch
+valuable
+fallacious
+wacky
+rough
+ticket
+crawl
+lame
+structure
+hulking
+alive
+desire
+silver
+
+Phase: 7
+Number of false negatives:
+0
+Number of false positives:
+15
+Probabilty of false positive:
+0.15
+False positive elements:
+daily
+addicted
+moldy
+aback
+ruthless
+itchy
+accidental
+steep
+quirky
+innocent
+abashed
+bloody
+tail
+super
+stagnation
+
+Phase: 8
+Number of false negatives:
+0
+Number of false positives:
+18
+Probabilty of false positive:
+0.18
+False positive elements:
+distinct
+feigned
+snails
+lowly
+undress
+oatmeal
+steady
+squirrel
+makeshift
+flat
+ice
+stampede
+grumpy
+chivalrous
+mix
+business
+object
+punishment
+
+Phase: 9
+Number of false negatives:
+0
+Number of false positives:
+16
+Probabilty of false positive:
+0.16
+False positive elements:
+honey
+spotty
+direful
+hurry
+heal
+start
+announce
+damage
+refuse
+vanish
+glue
+syrup
+nut
+curved
+fragile
+condition
+
+Phase: 10
+Number of false negatives:
+0
+Number of false positives:
+18
+Probabilty of false positive:
+0.18
+False positive elements:
+one
+pass
+delicate
+inherent
+numerous
+town
+bit
+waves
+flanders
+bottle
+fireman
+protective
+lie
+courageous
+chief
+market
+frogs
+cause
+
+Number of total false negatives:
+0
+Number of total false positives:
+109
+Probabilty of false positive in total:
+0.109

@@ -14,7 +14,7 @@ int main(int argc, char** argv)
         exit(1);
     }
     ifstream inputFiles[5];
-    for(int i=0; i<5; i++)
+    for(int i=0; i<5; i++) // open input files
     {
         inputFiles[i].open(argv[i+1]);
         if(!inputFiles[i].is_open())
@@ -47,32 +47,32 @@ int main(int argc, char** argv)
         int falseNegative = 0;
         int falsePositive = 0;
         string temp;
-        for(int i=0; i<1000; i++)
+        for(int i=0; i<1000; i++) // insert 1000 elements
         {
             temp = "";
             inputFiles[1] >> temp;
             b.insert(temp);
         }
-        for(int i=0; i<100; i++)
+        for(int i=0; i<100; i++) // 100 successful search
         {
             temp = "";
             inputFiles[2] >> temp;
-            if(!b.search(temp))
+            if(!b.search(temp)) // false negative if can't find it
             {
                 falseNegative++;
             }
         }
-        for(int i=0; i<100; i++)
+        for(int i=0; i<100; i++) // 100 unsuccessful search
         {
             temp = "";
             inputFiles[3] >> temp;
-            if(b.search(temp))
+            if(b.search(temp)) // false positive if find it
             {
                 falsePositiveElements.push_back(temp);
                 falsePositive++;
             }
         }
-        for(int i=0; i<100; i++)
+        for(int i=0; i<100; i++) // remove 100 elements
         {
             temp = "";
             inputFiles[4] >> temp;
@@ -81,7 +81,7 @@ int main(int argc, char** argv)
         cout << "Phase: "<< phaseCount+1 << endl;
         cout << "Number of false negatives:" << endl;
         cout << falseNegative << endl;
-        cout << "Number of false positive:" << endl;
+        cout << "Number of false positives:" << endl;
         cout << falsePositive << endl;
         cout << "Probabilty of false positive:" << endl;
         cout << (double)falsePositive/(double)100 << endl;

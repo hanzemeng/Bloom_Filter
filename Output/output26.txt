@@ -1,0 +1,176 @@
+Experiment for values of:
+p = 0.1
+c = 0.8
+d = 1.5
+q = 673
+
+Phase: 1
+Number of false negatives:
+0
+Number of false positives:
+1
+Probabilty of false positive:
+0.01
+False positive elements:
+embarrass
+
+Phase: 2
+Number of false negatives:
+0
+Number of false positives:
+1
+Probabilty of false positive:
+0.01
+False positive elements:
+prick
+
+Phase: 3
+Number of false negatives:
+0
+Number of false positives:
+2
+Probabilty of false positive:
+0.02
+False positive elements:
+sticks
+cloth
+
+Phase: 4
+Number of false negatives:
+0
+Number of false positives:
+2
+Probabilty of false positive:
+0.02
+False positive elements:
+bushes
+hunt
+
+Phase: 5
+Number of false negatives:
+0
+Number of false positives:
+3
+Probabilty of false positive:
+0.03
+False positive elements:
+file
+heat
+silk
+
+Phase: 6
+Number of false negatives:
+0
+Number of false positives:
+9
+Probabilty of false positive:
+0.09
+False positive elements:
+cluttered
+ajar
+crazy
+obsequious
+temper
+obtainable
+lame
+spill
+special
+
+Phase: 7
+Number of false negatives:
+0
+Number of false positives:
+6
+Probabilty of false positive:
+0.06
+False positive elements:
+daily
+innocent
+pastoral
+abashed
+tail
+blue-eyed
+
+Phase: 8
+Number of false negatives:
+0
+Number of false positives:
+14
+Probabilty of false positive:
+0.14
+False positive elements:
+fertile
+birds
+legal
+feigned
+heron
+lowly
+undress
+weather
+things
+flavor
+chivalrous
+business
+punishment
+sad
+
+Phase: 9
+Number of false negatives:
+0
+Number of false positives:
+17
+Probabilty of false positive:
+0.17
+False positive elements:
+spotty
+heal
+puzzled
+beg
+sun
+ink
+refuse
+vanish
+scratch
+bostonian
+syrup
+channel
+sip
+ashamed
+worry
+practice
+utopian
+
+Phase: 10
+Number of false negatives:
+0
+Number of false positives:
+19
+Probabilty of false positive:
+0.19
+False positive elements:
+chubby
+one
+pass
+mist
+mountainous
+numerous
+loaf
+bit
+fireman
+squeak
+governor
+lie
+spandex
+courageous
+chief
+market
+nonstop
+frogs
+heady
+
+Number of total false negatives:
+0
+Number of total false positives:
+74
+Probabilty of false positive in total:
+0.074

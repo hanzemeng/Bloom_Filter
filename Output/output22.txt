@@ -1,0 +1,144 @@
+Experiment for values of:
+p = 0.1
+c = 1.5
+d = 0.5
+q = 673
+
+Phase: 1
+Number of false negatives:
+0
+Number of false positives:
+0
+Probabilty of false positive:
+0
+False positive elements:
+
+Phase: 2
+Number of false negatives:
+0
+Number of false positives:
+1
+Probabilty of false positive:
+0.01
+False positive elements:
+reading
+
+Phase: 3
+Number of false negatives:
+0
+Number of false positives:
+2
+Probabilty of false positive:
+0.02
+False positive elements:
+shut
+large
+
+Phase: 4
+Number of false negatives:
+0
+Number of false positives:
+2
+Probabilty of false positive:
+0.02
+False positive elements:
+giraffe
+hunt
+
+Phase: 5
+Number of false negatives:
+0
+Number of false positives:
+3
+Probabilty of false positive:
+0.03
+False positive elements:
+file
+political
+heat
+
+Phase: 6
+Number of false negatives:
+0
+Number of false positives:
+8
+Probabilty of false positive:
+0.08
+False positive elements:
+cluttered
+ajar
+crazy
+itch
+temper
+crawl
+hulking
+desire
+
+Phase: 7
+Number of false negatives:
+0
+Number of false positives:
+3
+Probabilty of false positive:
+0.03
+False positive elements:
+number
+innocent
+tail
+
+Phase: 8
+Number of false negatives:
+0
+Number of false positives:
+7
+Probabilty of false positive:
+0.07
+False positive elements:
+unique
+distinct
+accept
+flat
+grumpy
+punishment
+daffy
+
+Phase: 9
+Number of false negatives:
+0
+Number of false positives:
+8
+Probabilty of false positive:
+0.08
+False positive elements:
+direful
+ink
+sail
+stereotyped
+syrup
+sip
+nut
+utopian
+
+Phase: 10
+Number of false negatives:
+0
+Number of false positives:
+8
+Probabilty of false positive:
+0.08
+False positive elements:
+pass
+mist
+giant
+squeak
+protective
+chief
+health
+cause
+
+Number of total false negatives:
+0
+Number of total false positives:
+42
+Probabilty of false positive in total:
+0.042

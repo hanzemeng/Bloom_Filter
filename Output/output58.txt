@@ -1,0 +1,227 @@
+Experiment for values of:
+p = 0.1
+c = 0.8
+d = 3.5
+q = 673
+
+Phase: 1
+Number of false negatives:
+0
+Number of false positives:
+0
+Probabilty of false positive:
+0
+False positive elements:
+
+Phase: 2
+Number of false negatives:
+0
+Number of false positives:
+0
+Probabilty of false positive:
+0
+False positive elements:
+
+Phase: 3
+Number of false negatives:
+0
+Number of false positives:
+0
+Probabilty of false positive:
+0
+False positive elements:
+
+Phase: 4
+Number of false negatives:
+0
+Number of false positives:
+1
+Probabilty of false positive:
+0.01
+False positive elements:
+hunt
+
+Phase: 5
+Number of false negatives:
+0
+Number of false positives:
+7
+Probabilty of false positive:
+0.07
+False positive elements:
+married
+illegal
+heat
+calm
+desert
+delicious
+wren
+
+Phase: 6
+Number of false negatives:
+0
+Number of false positives:
+14
+Probabilty of false positive:
+0.14
+False positive elements:
+ajar
+dogs
+crazy
+squalid
+bliss
+valuable
+sea
+temper
+flow
+black
+obtainable
+crawl
+spare
+alive
+
+Phase: 7
+Number of false negatives:
+0
+Number of false positives:
+16
+Probabilty of false positive:
+0.16
+False positive elements:
+entertaining
+probability
+quarter
+insect
+stop
+cheer
+premium
+shiver
+accidental
+grey
+innocent
+violent
+pastoral
+dramatic
+mend
+bright
+
+Phase: 8
+Number of false negatives:
+0
+Number of false positives:
+20
+Probabilty of false positive:
+0.2
+False positive elements:
+fertile
+birds
+knife
+distribution
+heron
+level
+oatmeal
+skip
+sort
+accept
+stale
+women
+tour
+heartbreaking
+chivalrous
+business
+rule
+object
+concerned
+brawny
+
+Phase: 9
+Number of false negatives:
+0
+Number of false positives:
+25
+Probabilty of false positive:
+0.25
+False positive elements:
+impolite
+spotty
+heal
+clean
+bomb
+old
+announce
+labored
+ink
+ignorant
+wry
+past
+uppity
+agreement
+rebel
+bostonian
+turkey
+syrup
+scent
+monkey
+sip
+cap
+awake
+thrill
+sterile
+
+Phase: 10
+Number of false negatives:
+0
+Number of false positives:
+42
+Probabilty of false positive:
+0.42
+False positive elements:
+cable
+join
+chubby
+pikachu
+periodic
+pass
+ready
+numberless
+rest
+worm
+mist
+painful
+spiffy
+popcorn
+delicate
+sassy
+inherent
+numerous
+loaf
+town
+gravity
+bit
+breathe
+signal
+hummingbird
+destruction
+useless
+fireman
+top
+humdrum
+trucks
+squeak
+strange
+governor
+acidic
+spandex
+courageous
+chief
+nonstop
+sleepy
+heady
+cause
+
+Number of total false negatives:
+0
+Number of total false positives:
+125
+Probabilty of false positive in total:
+0.125

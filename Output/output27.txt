@@ -1,0 +1,158 @@
+Experiment for values of:
+p = 0.1
+c = 0.9
+d = 1.5
+q = 673
+
+Phase: 1
+Number of false negatives:
+0
+Number of false positives:
+0
+Probabilty of false positive:
+0
+False positive elements:
+
+Phase: 2
+Number of false negatives:
+0
+Number of false positives:
+0
+Probabilty of false positive:
+0
+False positive elements:
+
+Phase: 3
+Number of false negatives:
+0
+Number of false positives:
+1
+Probabilty of false positive:
+0.01
+False positive elements:
+cloth
+
+Phase: 4
+Number of false negatives:
+0
+Number of false positives:
+3
+Probabilty of false positive:
+0.03
+False positive elements:
+graceful
+hunt
+dusty
+
+Phase: 5
+Number of false negatives:
+0
+Number of false positives:
+4
+Probabilty of false positive:
+0.04
+False positive elements:
+picture
+file
+mature
+front
+
+Phase: 6
+Number of false negatives:
+0
+Number of false positives:
+4
+Probabilty of false positive:
+0.04
+False positive elements:
+ajar
+temper
+escape
+desire
+
+Phase: 7
+Number of false negatives:
+0
+Number of false positives:
+9
+Probabilty of false positive:
+0.09
+False positive elements:
+entertaining
+daily
+quarter
+cheer
+shiver
+accidental
+innocent
+tail
+mend
+
+Phase: 8
+Number of false negatives:
+0
+Number of false positives:
+6
+Probabilty of false positive:
+0.06
+False positive elements:
+bedroom
+feigned
+flavor
+chivalrous
+business
+object
+
+Phase: 9
+Number of false negatives:
+0
+Number of false positives:
+13
+Probabilty of false positive:
+0.13
+False positive elements:
+spotty
+heal
+puzzled
+vanish
+scent
+monkey
+sip
+cap
+awake
+practice
+fish
+sterile
+utopian
+
+Phase: 10
+Number of false negatives:
+0
+Number of false positives:
+16
+Probabilty of false positive:
+0.16
+False positive elements:
+unhealthy
+chubby
+pass
+mist
+mountainous
+painful
+numerous
+hummingbird
+thunder
+squeak
+spandex
+market
+frogs
+acrid
+heady
+cause
+
+Number of total false negatives:
+0
+Number of total false positives:
+56
+Probabilty of false positive in total:
+0.056

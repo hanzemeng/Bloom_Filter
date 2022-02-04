@@ -1,0 +1,179 @@
+Experiment for values of:
+p = 0.1
+c = 0.8
+d = 2.5
+q = 673
+
+Phase: 1
+Number of false negatives:
+0
+Number of false positives:
+0
+Probabilty of false positive:
+0
+False positive elements:
+
+Phase: 2
+Number of false negatives:
+0
+Number of false positives:
+0
+Probabilty of false positive:
+0
+False positive elements:
+
+Phase: 3
+Number of false negatives:
+0
+Number of false positives:
+0
+Probabilty of false positive:
+0
+False positive elements:
+
+Phase: 4
+Number of false negatives:
+0
+Number of false positives:
+1
+Probabilty of false positive:
+0.01
+False positive elements:
+volleyball
+
+Phase: 5
+Number of false negatives:
+0
+Number of false positives:
+3
+Probabilty of false positive:
+0.03
+False positive elements:
+heat
+calm
+perform
+
+Phase: 6
+Number of false negatives:
+0
+Number of false positives:
+9
+Probabilty of false positive:
+0.09
+False positive elements:
+ajar
+crazy
+bliss
+lumber
+flow
+obtainable
+ugliest
+hulking
+cream
+
+Phase: 7
+Number of false negatives:
+0
+Number of false positives:
+13
+Probabilty of false positive:
+0.13
+False positive elements:
+entertaining
+quarter
+stop
+cheer
+buzz
+scene
+innocent
+violent
+pastoral
+dramatic
+tail
+mend
+bright
+
+Phase: 8
+Number of false negatives:
+0
+Number of false positives:
+10
+Probabilty of false positive:
+0.1
+False positive elements:
+distinct
+birds
+legal
+knife
+heron
+spark
+weather
+chivalrous
+business
+concerned
+
+Phase: 9
+Number of false negatives:
+0
+Number of false positives:
+16
+Probabilty of false positive:
+0.16
+False positive elements:
+spotty
+pig
+poised
+heal
+sun
+labored
+refuse
+bostonian
+turkey
+syrup
+monkey
+sip
+cap
+ashamed
+recognise
+utopian
+
+Phase: 10
+Number of false negatives:
+0
+Number of false positives:
+25
+Probabilty of false positive:
+0.25
+False positive elements:
+chubby
+pass
+money
+mist
+painful
+delicate
+sassy
+shelf
+numerous
+loaf
+town
+bit
+breathe
+waves
+hummingbird
+useless
+fireman
+squeak
+strange
+spandex
+courageous
+chief
+nonstop
+hideous
+heady
+
+Number of total false negatives:
+0
+Number of total false positives:
+77
+Probabilty of false positive in total:
+0.077

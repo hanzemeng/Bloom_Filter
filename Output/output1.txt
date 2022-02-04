@@ -1,0 +1,151 @@
+Experiment for values of:
+p = 0.1
+c = 1
+d = 1
+q = 673
+
+Phase: 1
+Number of false negatives:
+0
+Number of false positives:
+1
+Probabilty of false positive:
+0.01
+False positive elements:
+embarrass
+
+Phase: 2
+Number of false negatives:
+0
+Number of false positives:
+1
+Probabilty of false positive:
+0.01
+False positive elements:
+prick
+
+Phase: 3
+Number of false negatives:
+0
+Number of false positives:
+0
+Probabilty of false positive:
+0
+False positive elements:
+
+Phase: 4
+Number of false negatives:
+0
+Number of false positives:
+0
+Probabilty of false positive:
+0
+False positive elements:
+
+Phase: 5
+Number of false negatives:
+0
+Number of false positives:
+4
+Probabilty of false positive:
+0.04
+False positive elements:
+inject
+file
+heat
+silk
+
+Phase: 6
+Number of false negatives:
+0
+Number of false positives:
+5
+Probabilty of false positive:
+0.05
+False positive elements:
+ajar
+crazy
+itch
+ugliest
+special
+
+Phase: 7
+Number of false negatives:
+0
+Number of false positives:
+5
+Probabilty of false positive:
+0.05
+False positive elements:
+addicted
+insect
+horrible
+pastoral
+tail
+
+Phase: 8
+Number of false negatives:
+0
+Number of false positives:
+7
+Probabilty of false positive:
+0.07
+False positive elements:
+scientific
+legal
+feigned
+lowly
+undress
+skip
+punishment
+
+Phase: 9
+Number of false negatives:
+0
+Number of false positives:
+12
+Probabilty of false positive:
+0.12
+False positive elements:
+spotty
+heal
+damage
+ink
+refuse
+vanish
+syrup
+sip
+awake
+worry
+practice
+utopian
+
+Phase: 10
+Number of false negatives:
+0
+Number of false positives:
+14
+Probabilty of false positive:
+0.14
+False positive elements:
+chubby
+pass
+mist
+shelf
+numerous
+bit
+fireman
+squeak
+lie
+courageous
+chief
+frogs
+heady
+cause
+
+Number of total false negatives:
+0
+Number of total false positives:
+49
+Probabilty of false positive in total:
+0.049

@@ -1,0 +1,151 @@
+Experiment for values of:
+p = 0.1
+c = 1.1
+d = 3
+q = 673
+
+Phase: 1
+Number of false negatives:
+0
+Number of false positives:
+0
+Probabilty of false positive:
+0
+False positive elements:
+
+Phase: 2
+Number of false negatives:
+0
+Number of false positives:
+0
+Probabilty of false positive:
+0
+False positive elements:
+
+Phase: 3
+Number of false negatives:
+0
+Number of false positives:
+0
+Probabilty of false positive:
+0
+False positive elements:
+
+Phase: 4
+Number of false negatives:
+0
+Number of false positives:
+0
+Probabilty of false positive:
+0
+False positive elements:
+
+Phase: 5
+Number of false negatives:
+0
+Number of false positives:
+2
+Probabilty of false positive:
+0.02
+False positive elements:
+heat
+calm
+
+Phase: 6
+Number of false negatives:
+0
+Number of false positives:
+3
+Probabilty of false positive:
+0.03
+False positive elements:
+ajar
+ticket
+cream
+
+Phase: 7
+Number of false negatives:
+0
+Number of false positives:
+4
+Probabilty of false positive:
+0.04
+False positive elements:
+quarter
+intelligent
+stop
+mend
+
+Phase: 8
+Number of false negatives:
+0
+Number of false positives:
+5
+Probabilty of false positive:
+0.05
+False positive elements:
+level
+flavor
+business
+object
+brawny
+
+Phase: 9
+Number of false negatives:
+0
+Number of false positives:
+10
+Probabilty of false positive:
+0.1
+False positive elements:
+poised
+heal
+ink
+ignorant
+wry
+cats
+uppity
+agreement
+turkey
+scent
+
+Phase: 10
+Number of false negatives:
+0
+Number of false positives:
+25
+Probabilty of false positive:
+0.25
+False positive elements:
+tin
+pass
+rest
+yak
+mist
+mountainous
+painful
+popcorn
+delicate
+numerous
+analyze
+bit
+breathe
+waves
+hummingbird
+fireman
+top
+humdrum
+squeak
+lie
+chief
+nonstop
+agreeable
+heady
+cause
+
+Number of total false negatives:
+0
+Number of total false positives:
+49
+Probabilty of false positive in total:
+0.049

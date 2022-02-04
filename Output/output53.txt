@@ -1,0 +1,139 @@
+Experiment for values of:
+p = 0.1
+c = 1.2
+d = 3
+q = 673
+
+Phase: 1
+Number of false negatives:
+0
+Number of false positives:
+0
+Probabilty of false positive:
+0
+False positive elements:
+
+Phase: 2
+Number of false negatives:
+0
+Number of false positives:
+0
+Probabilty of false positive:
+0
+False positive elements:
+
+Phase: 3
+Number of false negatives:
+0
+Number of false positives:
+0
+Probabilty of false positive:
+0
+False positive elements:
+
+Phase: 4
+Number of false negatives:
+0
+Number of false positives:
+0
+Probabilty of false positive:
+0
+False positive elements:
+
+Phase: 5
+Number of false negatives:
+0
+Number of false positives:
+1
+Probabilty of false positive:
+0.01
+False positive elements:
+picture
+
+Phase: 6
+Number of false negatives:
+0
+Number of false positives:
+5
+Probabilty of false positive:
+0.05
+False positive elements:
+ajar
+black
+ticket
+ugliest
+alive
+
+Phase: 7
+Number of false negatives:
+0
+Number of false positives:
+2
+Probabilty of false positive:
+0.02
+False positive elements:
+madly
+terrific
+
+Phase: 8
+Number of false negatives:
+0
+Number of false positives:
+7
+Probabilty of false positive:
+0.07
+False positive elements:
+feigned
+undress
+short
+weak
+accept
+whistle
+object
+
+Phase: 9
+Number of false negatives:
+0
+Number of false positives:
+9
+Probabilty of false positive:
+0.09
+False positive elements:
+poised
+vanish
+uppity
+lethal
+agreement
+turkey
+monkey
+thrill
+sterile
+
+Phase: 10
+Number of false negatives:
+0
+Number of false positives:
+13
+Probabilty of false positive:
+0.13
+False positive elements:
+cable
+pikachu
+pass
+mist
+painful
+hover
+giant
+breathe
+waves
+hummingbird
+squeak
+strange
+chief
+
+Number of total false negatives:
+0
+Number of total false positives:
+37
+Probabilty of false positive in total:
+0.037

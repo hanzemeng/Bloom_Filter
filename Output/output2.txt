@@ -1,0 +1,140 @@
+Experiment for values of:
+p = 0.1
+c = 1.1
+d = 1
+q = 673
+
+Phase: 1
+Number of false negatives:
+0
+Number of false positives:
+0
+Probabilty of false positive:
+0
+False positive elements:
+
+Phase: 2
+Number of false negatives:
+0
+Number of false positives:
+1
+Probabilty of false positive:
+0.01
+False positive elements:
+prick
+
+Phase: 3
+Number of false negatives:
+0
+Number of false positives:
+0
+Probabilty of false positive:
+0
+False positive elements:
+
+Phase: 4
+Number of false negatives:
+0
+Number of false positives:
+1
+Probabilty of false positive:
+0.01
+False positive elements:
+hunt
+
+Phase: 5
+Number of false negatives:
+0
+Number of false positives:
+5
+Probabilty of false positive:
+0.05
+False positive elements:
+inject
+file
+heat
+silk
+front
+
+Phase: 6
+Number of false negatives:
+0
+Number of false positives:
+3
+Probabilty of false positive:
+0.03
+False positive elements:
+cluttered
+ajar
+crazy
+
+Phase: 7
+Number of false negatives:
+0
+Number of false positives:
+4
+Probabilty of false positive:
+0.04
+False positive elements:
+addicted
+innocent
+tail
+blue-eyed
+
+Phase: 8
+Number of false negatives:
+0
+Number of false positives:
+4
+Probabilty of false positive:
+0.04
+False positive elements:
+legal
+feigned
+undress
+chivalrous
+
+Phase: 9
+Number of false negatives:
+0
+Number of false positives:
+8
+Probabilty of false positive:
+0.08
+False positive elements:
+spotty
+heal
+puzzled
+vanish
+scratch
+syrup
+worry
+utopian
+
+Phase: 10
+Number of false negatives:
+0
+Number of false positives:
+12
+Probabilty of false positive:
+0.12
+False positive elements:
+chubby
+pass
+mountainous
+numerous
+loaf
+bottle
+fireman
+squeak
+chief
+faithful
+heady
+cause
+
+Number of total false negatives:
+0
+Number of total false positives:
+38
+Probabilty of false positive in total:
+0.038

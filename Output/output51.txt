@@ -1,0 +1,181 @@
+Experiment for values of:
+p = 0.1
+c = 0.9
+d = 3
+q = 673
+
+Phase: 1
+Number of false negatives:
+0
+Number of false positives:
+0
+Probabilty of false positive:
+0
+False positive elements:
+
+Phase: 2
+Number of false negatives:
+0
+Number of false positives:
+0
+Probabilty of false positive:
+0
+False positive elements:
+
+Phase: 3
+Number of false negatives:
+0
+Number of false positives:
+0
+Probabilty of false positive:
+0
+False positive elements:
+
+Phase: 4
+Number of false negatives:
+0
+Number of false positives:
+0
+Probabilty of false positive:
+0
+False positive elements:
+
+Phase: 5
+Number of false negatives:
+0
+Number of false positives:
+4
+Probabilty of false positive:
+0.04
+False positive elements:
+green
+picture
+mature
+front
+
+Phase: 6
+Number of false negatives:
+0
+Number of false positives:
+6
+Probabilty of false positive:
+0.06
+False positive elements:
+confession
+ajar
+dogs
+lumber
+special
+alive
+
+Phase: 7
+Number of false negatives:
+0
+Number of false positives:
+9
+Probabilty of false positive:
+0.09
+False positive elements:
+stop
+spiky
+shiver
+buzz
+innocent
+pastoral
+mend
+solaris
+fang
+
+Phase: 8
+Number of false negatives:
+0
+Number of false positives:
+6
+Probabilty of false positive:
+0.06
+False positive elements:
+level
+nation
+steady
+whistle
+business
+object
+
+Phase: 9
+Number of false negatives:
+0
+Number of false positives:
+21
+Probabilty of false positive:
+0.21
+False positive elements:
+please
+direful
+heal
+old
+ink
+vanish
+ignorant
+own
+uppity
+lethal
+six
+agreement
+kindly
+bostonian
+turkey
+monkey
+cap
+ashamed
+awake
+nut
+sterile
+
+Phase: 10
+Number of false negatives:
+0
+Number of false positives:
+33
+Probabilty of false positive:
+0.33
+False positive elements:
+unhealthy
+cable
+chubby
+tin
+pass
+blastoid
+yak
+mist
+painful
+sassy
+numerous
+town
+nose
+analyze
+bit
+breathe
+signal
+waves
+hummingbird
+destruction
+fireman
+top
+humdrum
+trucks
+squeak
+strange
+protective
+spandex
+courageous
+chief
+agreeable
+heady
+cause
+
+Number of total false negatives:
+0
+Number of total false positives:
+79
+Probabilty of false positive in total:
+0.079

@@ -1,0 +1,253 @@
+Experiment for values of:
+p = 0.1
+c = 0.5
+d = 2
+q = 673
+
+Phase: 1
+Number of false negatives:
+0
+Number of false positives:
+2
+Probabilty of false positive:
+0.02
+False positive elements:
+embarrass
+stroke
+
+Phase: 2
+Number of false negatives:
+0
+Number of false positives:
+4
+Probabilty of false positive:
+0.04
+False positive elements:
+reading
+sniff
+prick
+welcome
+
+Phase: 3
+Number of false negatives:
+0
+Number of false positives:
+2
+Probabilty of false positive:
+0.02
+False positive elements:
+island
+tested
+
+Phase: 4
+Number of false negatives:
+0
+Number of false positives:
+4
+Probabilty of false positive:
+0.04
+False positive elements:
+creature
+shiny
+giraffe
+jeans
+
+Phase: 5
+Number of false negatives:
+0
+Number of false positives:
+17
+Probabilty of false positive:
+0.17
+False positive elements:
+green
+inject
+x-ray
+arithmetic
+married
+file
+heat
+mature
+complete
+room
+silk
+fix
+thick
+damaging
+front
+crabby
+sneeze
+
+Phase: 6
+Number of false negatives:
+0
+Number of false positives:
+14
+Probabilty of false positive:
+0.14
+False positive elements:
+cluttered
+ajar
+bambi
+crazy
+itch
+temper
+man
+vegetable
+guide
+trick
+duck
+lame
+sparkling
+special
+
+Phase: 7
+Number of false negatives:
+0
+Number of false positives:
+19
+Probabilty of false positive:
+0.19
+False positive elements:
+daily
+addicted
+coat
+stop
+quickest
+telling
+eatery
+shiver
+label
+accidental
+steep
+horrible
+violent
+airplane
+pastoral
+abashed
+tail
+soak
+blue-eyed
+
+Phase: 8
+Number of false negatives:
+0
+Number of false positives:
+19
+Probabilty of false positive:
+0.19
+False positive elements:
+afternoon
+tray
+attraction
+birds
+scientific
+legal
+stravinsky
+lowly
+undress
+blimp
+steady
+things
+stale
+ice
+flavor
+mix
+business
+careless
+punishment
+
+Phase: 9
+Number of false negatives:
+0
+Number of false positives:
+37
+Probabilty of false positive:
+0.37
+False positive elements:
+spotty
+unlock
+direful
+heal
+puzzled
+cayenne
+start
+old
+announce
+labored
+ink
+snobbish
+refuse
+vanish
+religion
+overflow
+cats
+scratch
+stereotyped
+kindly
+brave
+bostonian
+syrup
+best
+ghost
+monkey
+sip
+ashamed
+awake
+worry
+practice
+eight
+nut
+sterile
+curved
+utopian
+condition
+
+Phase: 10
+Number of false negatives:
+0
+Number of false positives:
+33
+Probabilty of false positive:
+0.33
+False positive elements:
+unhealthy
+cable
+chubby
+one
+pass
+blastoid
+yak
+mist
+mountainous
+painful
+delicate
+sassy
+shelf
+numerous
+loaf
+bit
+waves
+look
+hummingbird
+thunder
+bottle
+fireman
+squeak
+governor
+lie
+spandex
+courageous
+chief
+market
+frogs
+faithful
+heady
+cause
+
+Number of total false negatives:
+0
+Number of total false positives:
+151
+Probabilty of false positive in total:
+0.151

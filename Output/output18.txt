@@ -1,0 +1,245 @@
+Experiment for values of:
+p = 0.1
+c = 0.8
+d = 0.5
+q = 673
+
+Phase: 1
+Number of false negatives:
+0
+Number of false positives:
+3
+Probabilty of false positive:
+0.03
+False positive elements:
+bounce
+embarrass
+weary
+
+Phase: 2
+Number of false negatives:
+0
+Number of false positives:
+6
+Probabilty of false positive:
+0.06
+False positive elements:
+scare
+sniff
+sign
+scandalous
+person
+behave
+
+Phase: 3
+Number of false negatives:
+0
+Number of false positives:
+8
+Probabilty of false positive:
+0.08
+False positive elements:
+doubt
+cloudy
+demonic
+cowardly
+position
+wiggly
+dreary
+large
+
+Phase: 4
+Number of false negatives:
+0
+Number of false positives:
+6
+Probabilty of false positive:
+0.06
+False positive elements:
+shiny
+bushes
+hunt
+hilarious
+dusty
+guarantee
+
+Phase: 5
+Number of false negatives:
+0
+Number of false positives:
+11
+Probabilty of false positive:
+0.11
+False positive elements:
+inject
+interesting
+switch
+file
+political
+heat
+mature
+plug
+silk
+bubble
+front
+
+Phase: 6
+Number of false negatives:
+0
+Number of false positives:
+23
+Probabilty of false positive:
+0.23
+False positive elements:
+cluttered
+ajar
+boil
+crazy
+obsequious
+itch
+reject
+fallacious
+wacky
+temper
+man
+carpenter
+guide
+gruesome
+escape
+ticket
+crawl
+lame
+spill
+structure
+hulking
+alive
+desire
+
+Phase: 7
+Number of false negatives:
+0
+Number of false positives:
+18
+Probabilty of false positive:
+0.18
+False positive elements:
+daily
+grate
+addicted
+moldy
+aback
+ruthless
+itchy
+accidental
+number
+steep
+quirky
+innocent
+terrific
+violent
+abashed
+bloody
+tail
+fang
+
+Phase: 8
+Number of false negatives:
+0
+Number of false positives:
+24
+Probabilty of false positive:
+0.24
+False positive elements:
+attraction
+distinct
+birds
+knife
+feigned
+snails
+lowly
+vacation
+undress
+blimp
+street
+squirrel
+prickly
+flat
+thinkable
+overwrought
+shrill
+stampede
+grumpy
+chivalrous
+business
+object
+punishment
+bite
+
+Phase: 9
+Number of false negatives:
+0
+Number of false positives:
+20
+Probabilty of false positive:
+0.2
+False positive elements:
+honey
+spotty
+direful
+hurry
+heal
+beg
+start
+announce
+damage
+refuse
+glue
+kindly
+bostonian
+syrup
+ashamed
+worry
+nut
+curved
+fragile
+condition
+
+Phase: 10
+Number of false negatives:
+0
+Number of false positives:
+24
+Probabilty of false positive:
+0.24
+False positive elements:
+station
+one
+pass
+painful
+delicate
+inherent
+numerous
+loaf
+town
+bit
+waves
+flanders
+bottle
+fireman
+squeak
+protective
+lie
+various
+courageous
+chief
+market
+icy
+frogs
+scribble
+
+Number of total false negatives:
+0
+Number of total false positives:
+143
+Probabilty of false positive in total:
+0.143

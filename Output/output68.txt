@@ -1,0 +1,191 @@
+Experiment for values of:
+p = 0.1
+c = 1.1
+d = 4
+q = 673
+
+Phase: 1
+Number of false negatives:
+0
+Number of false positives:
+0
+Probabilty of false positive:
+0
+False positive elements:
+
+Phase: 2
+Number of false negatives:
+0
+Number of false positives:
+0
+Probabilty of false positive:
+0
+False positive elements:
+
+Phase: 3
+Number of false negatives:
+0
+Number of false positives:
+0
+Probabilty of false positive:
+0
+False positive elements:
+
+Phase: 4
+Number of false negatives:
+0
+Number of false positives:
+0
+Probabilty of false positive:
+0
+False positive elements:
+
+Phase: 5
+Number of false negatives:
+0
+Number of false positives:
+2
+Probabilty of false positive:
+0.02
+False positive elements:
+calm
+crabby
+
+Phase: 6
+Number of false negatives:
+0
+Number of false positives:
+6
+Probabilty of false positive:
+0.06
+False positive elements:
+confession
+ajar
+valuable
+ticket
+duck
+steel
+
+Phase: 7
+Number of false negatives:
+0
+Number of false positives:
+4
+Probabilty of false positive:
+0.04
+False positive elements:
+observe
+itchy
+scene
+mixer
+
+Phase: 8
+Number of false negatives:
+0
+Number of false positives:
+17
+Probabilty of false positive:
+0.17
+False positive elements:
+unique
+coal
+level
+cherry
+undress
+skip
+weak
+silly
+whistle
+thinkable
+light
+heartbreaking
+mix
+object
+careless
+vein
+brawny
+
+Phase: 9
+Number of false negatives:
+0
+Number of false positives:
+25
+Probabilty of false positive:
+0.25
+False positive elements:
+onerous
+unlock
+poised
+heal
+unkempt
+old
+sun
+ink
+snobbish
+vanish
+ignorant
+wry
+own
+school
+uppity
+agreement
+rebel
+poison
+kindly
+holiday
+ghost
+scent
+monkey
+cap
+worry
+
+Phase: 10
+Number of false negatives:
+0
+Number of false positives:
+35
+Probabilty of false positive:
+0.35
+False positive elements:
+umbrella
+cable
+tin
+pikachu
+pass
+rest
+yak
+mist
+delicate
+phone
+shelf
+inherent
+numerous
+loaf
+giant
+nose
+analyze
+bit
+breathe
+signal
+waves
+hummingbird
+top
+seashore
+humdrum
+trucks
+squeak
+protective
+spandex
+chief
+parsimonious
+agreeable
+health
+heady
+cause
+
+Number of total false negatives:
+0
+Number of total false positives:
+89
+Probabilty of false positive in total:
+0.089

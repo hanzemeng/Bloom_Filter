@@ -1,7 +1,7 @@
 #include <string>
 #include <iostream>
 #include "LinkedList.h"
-unsigned int strToInt(std::string element);
+unsigned int strToInt(std::string element); // this will also be used by bloom filter
 
 class HashTable
 {

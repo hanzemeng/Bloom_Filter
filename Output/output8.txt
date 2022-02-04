@@ -1,0 +1,293 @@
+Experiment for values of:
+p = 0.1
+c = 0.5
+d = 1
+q = 673
+
+Phase: 1
+Number of false negatives:
+0
+Number of false positives:
+4
+Probabilty of false positive:
+0.04
+False positive elements:
+bounce
+embarrass
+weary
+simp
+
+Phase: 2
+Number of false negatives:
+0
+Number of false positives:
+8
+Probabilty of false positive:
+0.08
+False positive elements:
+reading
+scare
+sniff
+scandalous
+welcome
+lyrical
+behave
+clover
+
+Phase: 3
+Number of false negatives:
+0
+Number of false positives:
+7
+Probabilty of false positive:
+0.07
+False positive elements:
+shut
+cloudy
+demonic
+wiggly
+dreary
+large
+high
+
+Phase: 4
+Number of false negatives:
+0
+Number of false positives:
+9
+Probabilty of false positive:
+0.09
+False positive elements:
+shiny
+spotless
+pen
+graceful
+giraffe
+bushes
+hilarious
+dusty
+guarantee
+
+Phase: 5
+Number of false negatives:
+0
+Number of false positives:
+20
+Probabilty of false positive:
+0.2
+False positive elements:
+inject
+teeny
+x-ray
+interesting
+switch
+file
+illegal
+political
+bermuda
+heat
+call
+able
+mature
+yard
+neat
+dissect
+plug
+silk
+bubble
+front
+
+Phase: 6
+Number of false negatives:
+0
+Number of false positives:
+27
+Probabilty of false positive:
+0.27
+False positive elements:
+cluttered
+ajar
+boil
+plane
+crazy
+obsequious
+funny
+itch
+valuable
+fallacious
+wacky
+rough
+temper
+man
+royal
+carpenter
+guide
+escape
+macaroni
+ticket
+crawl
+lame
+spill
+bustling
+structure
+hulking
+desire
+
+Phase: 7
+Number of false negatives:
+0
+Number of false positives:
+27
+Probabilty of false positive:
+0.27
+False positive elements:
+daily
+grate
+addicted
+queue
+moldy
+quickest
+ruthless
+telling
+eatery
+accidental
+number
+steep
+quirky
+mushy
+innocent
+bouncy
+violent
+airplane
+pastoral
+abashed
+bloody
+tail
+super
+defiant
+kick
+spoof
+jam
+
+Phase: 8
+Number of false negatives:
+0
+Number of false positives:
+36
+Probabilty of false positive:
+0.36
+False positive elements:
+tray
+attraction
+distinct
+gaze
+birds
+dime
+scientific
+knife
+feigned
+heron
+stravinsky
+opposite
+lowly
+vacation
+undress
+oatmeal
+blimp
+steady
+street
+things
+makeshift
+whistle
+ice
+thinkable
+overwrought
+shrill
+stampede
+grumpy
+flavor
+chivalrous
+mix
+business
+object
+punishment
+bite
+cover
+
+Phase: 9
+Number of false negatives:
+0
+Number of false positives:
+24
+Probabilty of false positive:
+0.24
+False positive elements:
+honey
+spotty
+direful
+hurry
+heal
+beg
+start
+old
+announce
+long-term
+refuse
+vanish
+cats
+poison
+kindly
+syrup
+ashamed
+awake
+worry
+nut
+sterile
+curved
+adjustment
+condition
+
+Phase: 10
+Number of false negatives:
+0
+Number of false positives:
+29
+Probabilty of false positive:
+0.29
+False positive elements:
+far-flung
+cable
+pass
+worm
+mist
+knock
+painful
+obtain
+delicate
+inherent
+unnatural
+numerous
+nose
+waves
+look
+unadvised
+flanders
+female
+bottle
+fireman
+top
+squeak
+protective
+various
+courageous
+chief
+market
+frogs
+cause
+
+Number of total false negatives:
+0
+Number of total false positives:
+191
+Probabilty of false positive in total:
+0.191
