@@ -7,7 +7,7 @@ filter(bloomFilterSize, false),
 removedElement(HASH_TABLE_SIZE) 
 {}
 
-void BloomFilter::print()
+void BloomFilter::print() // debugging only
 {
     std::cout << "bloomFilterSize: " << filter.size() << std::endl;
     std::cout << "hashFunctionSize: " << hashFunctionSize << std::endl;

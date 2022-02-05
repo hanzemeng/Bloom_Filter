@@ -13,7 +13,7 @@ Go to the directory named "Output".
 
 ## If you want to read the documentation
 Go to the directory named "Document".
-"Report" talks about design choice and analizy how c and d affects the false positive probability.
+"Report" talks about design choice and analyze how c and d affects the false positive probability.
 "False Positive Probability" summarizes the data found in "Output". It also has plots to visualize how change of c and d affects false positive probability.
 
 ## Reference
