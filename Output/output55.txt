@@ -1,7 +1,7 @@
 Experiment for values of:
 p = 0.1
 c = 2
-d = 3
+d = 2
 q = 673
 
 Phase: 1
@@ -53,11 +53,10 @@ Phase: 6
 Number of false negatives:
 0
 Number of false positives:
-1
+0
 Probabilty of false positive:
-0.01
+0
 False positive elements:
-ajar
 
 Phase: 7
 Number of false negatives:
@@ -72,44 +71,35 @@ Phase: 8
 Number of false negatives:
 0
 Number of false positives:
-2
+0
 Probabilty of false positive:
-0.02
+0
 False positive elements:
-unique
-level
 
 Phase: 9
 Number of false negatives:
 0
 Number of false positives:
-2
+0
 Probabilty of false positive:
-0.02
+0
 False positive elements:
-unlock
-recognise
 
 Phase: 10
 Number of false negatives:
 0
 Number of false positives:
-8
+3
 Probabilty of false positive:
-0.08
+0.03
 False positive elements:
-umbrella
-pass
-mist
-lie
-semaphore
-chief
+worm
+acidic
 parsimonious
-health
 
 Number of total false negatives:
 0
 Number of total false positives:
-13
+3
 Probabilty of false positive in total:
-0.013
+0.003

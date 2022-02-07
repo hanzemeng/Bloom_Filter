@@ -1,122 +1,197 @@
 Experiment for values of:
 p = 0.1
-c = 1.5
-d = 1
+c = 0.8
+d = 0.9
 q = 673
 
 Phase: 1
 Number of false negatives:
 0
 Number of false positives:
-0
+2
 Probabilty of false positive:
-0
+0.02
 False positive elements:
+flock
+farmer
 
 Phase: 2
 Number of false negatives:
 0
 Number of false positives:
-0
+4
 Probabilty of false positive:
-0
+0.04
 False positive elements:
+ignore
+phobic
+cars
+print
 
 Phase: 3
 Number of false negatives:
 0
 Number of false positives:
-0
+3
 Probabilty of false positive:
-0
+0.03
 False positive elements:
+raise
+talk
+tent
 
 Phase: 4
 Number of false negatives:
 0
 Number of false positives:
-0
+8
 Probabilty of false positive:
-0
+0.08
 False positive elements:
+debt
+tangible
+arm
+blow
+nauseating
+second
+electric
+curl
 
 Phase: 5
 Number of false negatives:
 0
 Number of false positives:
-2
+13
 Probabilty of false positive:
-0.02
+0.13
 False positive elements:
-file
-heat
+squeamish
+trace
+mixed
+tidy
+title
+tap
+bear
+tranquil
+thick
+front
+wire
+annoy
+helpless
 
 Phase: 6
 Number of false negatives:
 0
 Number of false positives:
-4
+9
 Probabilty of false positive:
-0.04
+0.09
 False positive elements:
-cluttered
-ajar
-crazy
+wasteful
+tart
+sisters
 temper
+escape
+glistening
+ugliest
+structure
+sparkling
 
 Phase: 7
 Number of false negatives:
 0
 Number of false positives:
-4
+13
 Probabilty of false positive:
-0.04
+0.13
 False positive elements:
-pan
+carry
 quarter
-cheer
+flippant
+madly
+talented
+scene
 innocent
+abashed
+defiant
+solaris
+immense
+assorted
+treat
 
 Phase: 8
 Number of false negatives:
 0
 Number of false positives:
-1
+15
 Probabilty of false positive:
-0.01
+0.15
 False positive elements:
-steady
+feeble
+distribution
+cherry
+lowly
+short
+prickly
+silly
+lean
+thinkable
+overwrought
+mix
+rule
+vein
+daffy
+foot
 
 Phase: 9
 Number of false negatives:
 0
 Number of false positives:
-2
+12
 Probabilty of false positive:
-0.02
+0.12
 False positive elements:
-syrup
-scent
+onerous
+poised
+gifted
+start
+sedate
+refuse
+sail
+overflow
+past
+uppity
+rebel
+drink
 
 Phase: 10
 Number of false negatives:
 0
 Number of false positives:
-7
+16
 Probabilty of false positive:
-0.07
+0.16
 False positive elements:
+monitor
 pass
+rest
+judge
 mist
-mountainous
-hummingbird
-thunder
-fireman
-squeak
+numerous
+gravity
+bit
+unadvised
+female
+useless
+bottle
+lie
+market
+nonstop
+frogs
 
 Number of total false negatives:
 0
 Number of total false positives:
-20
+95
 Probabilty of false positive in total:
-0.02
+0.095

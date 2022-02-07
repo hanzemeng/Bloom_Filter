@@ -1,95 +1,33 @@
 Experiment for values of:
 p = 0.1
-c = 2
-d = 1
+c = 1.1
+d = 0.8
 q = 673
 
 Phase: 1
 Number of false negatives:
 0
 Number of false positives:
-0
+1
 Probabilty of false positive:
-0
+0.01
 False positive elements:
+farmer
 
 Phase: 2
 Number of false negatives:
 0
 Number of false positives:
-0
+4
 Probabilty of false positive:
-0
+0.04
 False positive elements:
+ignore
+phobic
+cars
+print
 
 Phase: 3
-Number of false negatives:
-0
-Number of false positives:
-0
-Probabilty of false positive:
-0
-False positive elements:
-
-Phase: 4
-Number of false negatives:
-0
-Number of false positives:
-0
-Probabilty of false positive:
-0
-False positive elements:
-
-Phase: 5
-Number of false negatives:
-0
-Number of false positives:
-0
-Probabilty of false positive:
-0
-False positive elements:
-
-Phase: 6
-Number of false negatives:
-0
-Number of false positives:
-2
-Probabilty of false positive:
-0.02
-False positive elements:
-ajar
-crazy
-
-Phase: 7
-Number of false negatives:
-0
-Number of false positives:
-1
-Probabilty of false positive:
-0.01
-False positive elements:
-quarter
-
-Phase: 8
-Number of false negatives:
-0
-Number of false positives:
-0
-Probabilty of false positive:
-0
-False positive elements:
-
-Phase: 9
-Number of false negatives:
-0
-Number of false positives:
-1
-Probabilty of false positive:
-0.01
-False positive elements:
-cap
-
-Phase: 10
 Number of false negatives:
 0
 Number of false positives:
@@ -97,13 +35,126 @@ Number of false positives:
 Probabilty of false positive:
 0.03
 False positive elements:
+raise
+tent
+important
+
+Phase: 4
+Number of false negatives:
+0
+Number of false positives:
+5
+Probabilty of false positive:
+0.05
+False positive elements:
+debt
+tangible
+blow
+nauseating
+second
+
+Phase: 5
+Number of false negatives:
+0
+Number of false positives:
+7
+Probabilty of false positive:
+0.07
+False positive elements:
+trace
+tidy
+bear
+tranquil
+front
+annoy
+helpless
+
+Phase: 6
+Number of false negatives:
+0
+Number of false positives:
+5
+Probabilty of false positive:
+0.05
+False positive elements:
+tart
+sisters
+temper
+escape
+glistening
+
+Phase: 7
+Number of false negatives:
+0
+Number of false positives:
+9
+Probabilty of false positive:
+0.09
+False positive elements:
+carry
+flippant
+madly
+talented
+abashed
+defiant
+solaris
+immense
+treat
+
+Phase: 8
+Number of false negatives:
+0
+Number of false positives:
+9
+Probabilty of false positive:
+0.09
+False positive elements:
+crowded
+feeble
+mean
+lowly
+undress
+prickly
+mix
+vein
+cover
+
+Phase: 9
+Number of false negatives:
+0
+Number of false positives:
+8
+Probabilty of false positive:
+0.08
+False positive elements:
+onerous
+refuse
+sail
+overflow
+six
+rebel
+drink
+ashamed
+
+Phase: 10
+Number of false negatives:
+0
+Number of false positives:
+7
+Probabilty of false positive:
+0.07
+False positive elements:
 pass
-mist
+phone
 numerous
+female
+bottle
+market
+nonstop
 
 Number of total false negatives:
 0
 Number of total false positives:
-7
+58
 Probabilty of false positive in total:
-0.007
+0.058

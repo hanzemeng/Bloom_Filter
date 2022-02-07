@@ -4,9 +4,12 @@ unsigned int strToInt(std::string element)
 {
     unsigned int res = 0;
     unsigned int x = 29; // 26 lower case English characters, so use 29 (a prime)
+    // unsigned int remain = 2147483647; this is 2^31-1, a prime
+
     for(int i=0; i<element.size(); i++)
     {
-        res += x*res + element[i]-'a';
+        res += x*res + element[i]-'a'+1;
+        // res %= remain; decide to not use to reduce false positives, see documentation for explanation
     }
     return res;
 }

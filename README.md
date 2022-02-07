@@ -5,7 +5,7 @@ This project is for CMPSC 130A's programming assignment 1.
 Go to the directory named "Code".
 In your terminal:
 1. Type "make PA1" or "make" to build the program
-2. Type "make run" or "./PA1 setup.txt input.txt successfulSearch.txt failedSearch.txt remove.txt" to run the program
+2. Type "make run" or "./PA1.out setup.txt input.txt successfulSearch.txt failedSearch.txt remove.txt" to run the program
 3. Type "make clean" to remove all of the generated files
 
 ## If you want to read the program output for different values of c and d

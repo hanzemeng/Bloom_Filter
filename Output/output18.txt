@@ -1,10 +1,33 @@
 Experiment for values of:
 p = 0.1
-c = 0.8
-d = 0.5
+c = 0.9
+d = 1
 q = 673
 
 Phase: 1
+Number of false negatives:
+0
+Number of false positives:
+1
+Probabilty of false positive:
+0.01
+False positive elements:
+farmer
+
+Phase: 2
+Number of false negatives:
+0
+Number of false positives:
+4
+Probabilty of false positive:
+0.04
+False positive elements:
+heavenly
+ignore
+phobic
+print
+
+Phase: 3
 Number of false negatives:
 0
 Number of false positives:
@@ -12,58 +35,100 @@ Number of false positives:
 Probabilty of false positive:
 0.03
 False positive elements:
-bounce
-embarrass
-weary
-
-Phase: 2
-Number of false negatives:
-0
-Number of false positives:
-6
-Probabilty of false positive:
-0.06
-False positive elements:
-scare
-sniff
-sign
-scandalous
-person
-behave
-
-Phase: 3
-Number of false negatives:
-0
-Number of false positives:
-8
-Probabilty of false positive:
-0.08
-False positive elements:
-doubt
-cloudy
-demonic
-cowardly
-position
-wiggly
-dreary
-large
+raise
+tent
+befitting
 
 Phase: 4
 Number of false negatives:
 0
 Number of false positives:
-6
+7
 Probabilty of false positive:
-0.06
+0.07
 False positive elements:
-shiny
-bushes
-hunt
-hilarious
-dusty
-guarantee
+debt
+tangible
+arm
+blow
+nauseating
+second
+electric
 
 Phase: 5
+Number of false negatives:
+0
+Number of false positives:
+9
+Probabilty of false positive:
+0.09
+False positive elements:
+squeamish
+trace
+tidy
+tap
+bear
+tranquil
+thick
+front
+helpless
+
+Phase: 6
+Number of false negatives:
+0
+Number of false positives:
+9
+Probabilty of false positive:
+0.09
+False positive elements:
+sisters
+reject
+temper
+connect
+escape
+yarn
+glistening
+ugliest
+nebulous
+
+Phase: 7
+Number of false negatives:
+0
+Number of false positives:
+10
+Probabilty of false positive:
+0.1
+False positive elements:
+carry
+flippant
+madly
+talented
+scene
+innocent
+terrific
+solaris
+treat
+stagnation
+
+Phase: 8
+Number of false negatives:
+0
+Number of false positives:
+9
+Probabilty of false positive:
+0.09
+False positive elements:
+distribution
+lowly
+undress
+short
+makeshift
+prickly
+vein
+cover
+foot
+
+Phase: 9
 Number of false negatives:
 0
 Number of false positives:
@@ -71,175 +136,42 @@ Number of false positives:
 Probabilty of false positive:
 0.11
 False positive elements:
-inject
-interesting
-switch
-file
-political
-heat
-mature
-plug
-silk
-bubble
-front
-
-Phase: 6
-Number of false negatives:
-0
-Number of false positives:
-23
-Probabilty of false positive:
-0.23
-False positive elements:
-cluttered
-ajar
-boil
-crazy
-obsequious
-itch
-reject
-fallacious
-wacky
-temper
-man
-carpenter
-guide
-gruesome
-escape
-ticket
-crawl
-lame
-spill
-structure
-hulking
-alive
-desire
-
-Phase: 7
-Number of false negatives:
-0
-Number of false positives:
-18
-Probabilty of false positive:
-0.18
-False positive elements:
-daily
-grate
-addicted
-moldy
-aback
-ruthless
-itchy
-accidental
-number
-steep
-quirky
-innocent
-terrific
-violent
-abashed
-bloody
-tail
-fang
-
-Phase: 8
-Number of false negatives:
-0
-Number of false positives:
-24
-Probabilty of false positive:
-0.24
-False positive elements:
-attraction
-distinct
-birds
-knife
-feigned
-snails
-lowly
-vacation
-undress
-blimp
-street
-squirrel
-prickly
-flat
-thinkable
-overwrought
-shrill
-stampede
-grumpy
-chivalrous
-business
-object
-punishment
-bite
-
-Phase: 9
-Number of false negatives:
-0
-Number of false positives:
-20
-Probabilty of false positive:
-0.2
-False positive elements:
-honey
-spotty
-direful
-hurry
-heal
-beg
-start
-announce
-damage
+poised
+sedate
+cautious
 refuse
-glue
-kindly
-bostonian
-syrup
+sail
+overflow
+past
+six
+rebel
+drink
 ashamed
-worry
-nut
-curved
-fragile
-condition
 
 Phase: 10
 Number of false negatives:
 0
 Number of false positives:
-24
+12
 Probabilty of false positive:
-0.24
+0.12
 False positive elements:
-station
-one
 pass
-painful
-delicate
-inherent
+worm
+mist
 numerous
-loaf
-town
-bit
-waves
-flanders
+thunder
+unadvised
+female
 bottle
-fireman
-squeak
-protective
 lie
-various
-courageous
-chief
+acidic
 market
-icy
-frogs
-scribble
+nonstop
 
 Number of total false negatives:
 0
 Number of total false positives:
-143
+75
 Probabilty of false positive in total:
-0.143
+0.075

@@ -1,7 +1,7 @@
 Experiment for values of:
 p = 0.1
-c = 0.5
-d = 1.5
+c = 0.8
+d = 1.1
 q = 673
 
 Phase: 1
@@ -12,8 +12,8 @@ Number of false positives:
 Probabilty of false positive:
 0.02
 False positive elements:
-embarrass
-stroke
+flock
+farmer
 
 Phase: 2
 Number of false negatives:
@@ -23,26 +23,63 @@ Number of false positives:
 Probabilty of false positive:
 0.04
 False positive elements:
-reading
-prick
-welcome
-behave
+ignore
+phobic
+cars
+print
 
 Phase: 3
 Number of false negatives:
 0
 Number of false positives:
-5
+3
 Probabilty of false positive:
-0.05
+0.03
 False positive elements:
-concentrate
-shut
-wiggly
-large
-cloth
+raise
+talk
+tent
 
 Phase: 4
+Number of false negatives:
+0
+Number of false positives:
+8
+Probabilty of false positive:
+0.08
+False positive elements:
+debt
+tangible
+arm
+blow
+nauseating
+second
+electric
+curl
+
+Phase: 5
+Number of false negatives:
+0
+Number of false positives:
+13
+Probabilty of false positive:
+0.13
+False positive elements:
+squeamish
+trace
+mixed
+tidy
+title
+tap
+bear
+tranquil
+thick
+front
+wire
+annoy
+helpless
+
+Phase: 6
 Number of false negatives:
 0
 Number of false positives:
@@ -50,226 +87,111 @@ Number of false positives:
 Probabilty of false positive:
 0.09
 False positive elements:
-lip
-shiny
-pen
-graceful
-giraffe
-instinctive
-bushes
-copy
-tenuous
-
-Phase: 5
-Number of false negatives:
-0
-Number of false positives:
-21
-Probabilty of false positive:
-0.21
-False positive elements:
-green
-inject
-x-ray
-married
-subdued
-nasty
-file
-political
-heat
-mixed
-call
-able
-mature
-complete
-dissect
-room
-silk
-fix
-thick
-front
-crabby
-
-Phase: 6
-Number of false negatives:
-0
-Number of false positives:
-23
-Probabilty of false positive:
-0.23
-False positive elements:
-cluttered
-ajar
-dogs
-plane
-crazy
+wasteful
 tart
-obsequious
-itch
 sisters
-sea
 temper
-man
-vegetable
-flow
-guide
-yarn
-crawl
-duck
-lame
+escape
+glistening
+ugliest
 structure
-vagabond
-hulking
-desire
+sparkling
 
 Phase: 7
 Number of false negatives:
 0
 Number of false positives:
-21
+13
 Probabilty of false positive:
-0.21
+0.13
 False positive elements:
-false
-daily
-grate
-addicted
-queue
-coat
-moldy
-ruthless
-telling
-eatery
-accidental
-number
-steep
-quirky
-mushy
-terrific
-airplane
-pastoral
+carry
+quarter
+flippant
+madly
+talented
+scene
+innocent
 abashed
-bloody
-tail
+defiant
+solaris
+immense
+assorted
+treat
 
 Phase: 8
 Number of false negatives:
 0
 Number of false positives:
-26
+15
 Probabilty of false positive:
-0.26
+0.15
 False positive elements:
-unique
-attraction
-distinct
-fertile
-birds
-scientific
-legal
-feigned
-heron
-stravinsky
+feeble
+distribution
+cherry
 lowly
-oatmeal
-blimp
-street
-accept
-things
-flat
-ice
+short
+prickly
+silly
+lean
+thinkable
 overwrought
-shrill
-grumpy
-chivalrous
-business
-object
-punishment
+mix
+rule
+vein
 daffy
+foot
 
 Phase: 9
 Number of false negatives:
 0
 Number of false positives:
-32
+12
 Probabilty of false positive:
-0.32
+0.12
 False positive elements:
-direful
-hurry
-heal
-beg
+onerous
+poised
+gifted
 start
-old
-announce
-ink
+sedate
 refuse
-vanish
 sail
-cats
-stereotyped
+overflow
+past
+uppity
 rebel
-kindly
-brave
-bostonian
-syrup
-best
-ghost
-monkey
-sip
-ashamed
-awake
-worry
-practice
-eight
-nut
-sterile
-curved
-utopian
-condition
+drink
 
 Phase: 10
 Number of false negatives:
 0
 Number of false positives:
-30
+16
 Probabilty of false positive:
-0.3
+0.16
 False positive elements:
-umbrella
-cable
-chubby
-one
+monitor
 pass
+rest
+judge
 mist
-knock
-painful
-delicate
-shelf
-inherent
 numerous
-giant
 gravity
 bit
-waves
-look
-hummingbird
+unadvised
+female
+useless
 bottle
-squeak
-strange
-governor
-protective
-various
-spandex
-chief
+lie
 market
-health
-faithful
-cause
+nonstop
+frogs
 
 Number of total false negatives:
 0
 Number of total false positives:
-173
+95
 Probabilty of false positive in total:
-0.173
+0.095

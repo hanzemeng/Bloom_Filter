@@ -1,7 +1,7 @@
 Experiment for values of:
 p = 0.1
-c = 0.8
-d = 2
+c = 0.9
+d = 1.2
 q = 673
 
 Phase: 1
@@ -17,10 +17,12 @@ Phase: 2
 Number of false negatives:
 0
 Number of false positives:
-0
+2
 Probabilty of false positive:
-0
+0.02
 False positive elements:
+heavenly
+phobic
 
 Phase: 3
 Number of false negatives:
@@ -35,65 +37,95 @@ Phase: 4
 Number of false negatives:
 0
 Number of false positives:
-1
+3
 Probabilty of false positive:
-0.01
+0.03
 False positive elements:
-hunt
+debt
+arm
+blow
 
 Phase: 5
 Number of false negatives:
 0
 Number of false positives:
-2
+6
 Probabilty of false positive:
-0.02
+0.06
 False positive elements:
-heat
-calm
+trace
+tidy
+tap
+tranquil
+front
+helpless
 
 Phase: 6
 Number of false negatives:
 0
 Number of false positives:
-11
+6
 Probabilty of false positive:
-0.11
+0.06
 False positive elements:
-cluttered
-ajar
-dogs
-crazy
-obsequious
-bliss
-flow
-obtainable
+sisters
+rough
+man
+connect
 escape
-ugliest
-cream
+yarn
 
 Phase: 7
 Number of false negatives:
 0
 Number of false positives:
-12
+5
 Probabilty of false positive:
-0.12
+0.05
 False positive elements:
-entertaining
-daily
-quarter
+carry
+madly
 stop
-quickest
-cheer
-steep
-innocent
-violent
-tail
-mend
-bright
+treat
+stagnation
 
 Phase: 8
+Number of false negatives:
+0
+Number of false positives:
+9
+Probabilty of false positive:
+0.09
+False positive elements:
+attraction
+relax
+heron
+lowly
+prickly
+activity
+vein
+daffy
+foot
+
+Phase: 9
+Number of false negatives:
+0
+Number of false positives:
+9
+Probabilty of false positive:
+0.09
+False positive elements:
+clean
+snobbish
+cautious
+overflow
+past
+own
+rebel
+bostonian
+ashamed
+
+Phase: 10
 Number of false negatives:
 0
 Number of false positives:
@@ -101,69 +133,21 @@ Number of false positives:
 Probabilty of false positive:
 0.11
 False positive elements:
-distinct
-legal
-knife
-heron
-lowly
-weather
-things
-flavor
-chivalrous
-business
-object
-
-Phase: 9
-Number of false negatives:
-0
-Number of false positives:
-12
-Probabilty of false positive:
-0.12
-False positive elements:
-impolite
-spotty
-heal
-labored
-turkey
-syrup
-monkey
-sip
-cap
-ashamed
-sterile
-utopian
-
-Phase: 10
-Number of false negatives:
-0
-Number of false positives:
-18
-Probabilty of false positive:
-0.18
-False positive elements:
-cable
-chubby
-one
-pass
-mist
+pikachu
+worm
+judge
+delicate
 numerous
 loaf
-bit
-breathe
-waves
-hummingbird
-fireman
-humdrum
-squeak
-courageous
-chief
+town
+unadvised
+various
 market
-heady
+nonstop
 
 Number of total false negatives:
 0
 Number of total false positives:
-67
+51
 Probabilty of false positive in total:
-0.067
+0.051

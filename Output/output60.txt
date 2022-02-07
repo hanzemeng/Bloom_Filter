@@ -1,7 +1,7 @@
 Experiment for values of:
 p = 0.1
 c = 1.1
-d = 3.5
+d = 3
 q = 673
 
 Phase: 1
@@ -48,37 +48,21 @@ Number of false positives:
 Probabilty of false positive:
 0.02
 False positive elements:
-heat
-calm
+married
+sneeze
 
 Phase: 6
 Number of false negatives:
 0
 Number of false positives:
-5
+2
 Probabilty of false positive:
-0.05
+0.02
 False positive elements:
-confession
-ajar
-valuable
-ticket
-alive
+weigh
+temper
 
 Phase: 7
-Number of false negatives:
-0
-Number of false positives:
-4
-Probabilty of false positive:
-0.04
-False positive elements:
-intelligent
-quickest
-itchy
-scene
-
-Phase: 8
 Number of false negatives:
 0
 Number of false positives:
@@ -86,84 +70,79 @@ Number of false positives:
 Probabilty of false positive:
 0.08
 False positive elements:
-coal
-level
-undress
-weak
-whistle
-object
-careless
-brawny
+carry
+daily
+talented
+itchy
+accidental
+super
+girls
+spot
+
+Phase: 8
+Number of false negatives:
+0
+Number of false positives:
+7
+Probabilty of false positive:
+0.07
+False positive elements:
+queen
+attraction
+sort
+thinkable
+business
+rule
+cover
 
 Phase: 9
 Number of false negatives:
 0
 Number of false positives:
-23
+9
 Probabilty of false positive:
-0.23
+0.09
 False positive elements:
-onerous
-unlock
-poised
-heal
-puzzled
-old
-labored
-ink
-vanish
-ignorant
-wry
-own
-cats
-school
-uppity
-lethal
-agreement
-kindly
-ghost
-scent
-cap
-groan
+long-term
+sail
+preach
+ashamed
+awake
 worry
+nut
+curved
+condition
 
 Phase: 10
 Number of false negatives:
 0
 Number of false positives:
-25
+18
 Probabilty of false positive:
-0.25
+0.18
 False positive elements:
-umbrella
-cable
-tin
-pikachu
-pass
-rest
-mist
-painful
-phone
-inherent
+ready
+delicate
+serve
+visitor
 numerous
-giant
-bit
-breathe
-waves
+aberrant
+nose
+odd
 hummingbird
+unadvised
 useless
-fireman
-top
-squeak
-chief
-nonstop
-health
-heady
-cause
+bottle
+seashore
+acidic
+various
+courageous
+market
+hideous
 
 Number of total false negatives:
 0
 Number of total false positives:
-67
+46
 Probabilty of false positive in total:
-0.067
+0.046

@@ -1,7 +1,7 @@
 Experiment for values of:
 p = 0.1
-c = 0.9
-d = 3.5
+c = 1
+d = 3
 q = 673
 
 Phase: 1
@@ -48,157 +48,114 @@ Number of false positives:
 Probabilty of false positive:
 0.02
 False positive elements:
-picture
-mature
+thick
+sneeze
 
 Phase: 6
 Number of false negatives:
 0
 Number of false positives:
-11
+5
 Probabilty of false positive:
-0.11
+0.05
 False positive elements:
-confession
-ajar
-dogs
-purpose
-puny
-sea
+wholesale
+lumber
+copper
+yarn
 ugliest
-spare
-cream
-alive
-silver
 
 Phase: 7
 Number of false negatives:
 0
 Number of false positives:
-9
+8
 Probabilty of false positive:
-0.09
+0.08
 False positive elements:
-quarter
-shiver
-buzz
-innocent
-pastoral
-kick
+carry
+coat
+shaky
+belong
+wash
+bloody
 immense
 bored
-fang
 
 Phase: 8
 Number of false negatives:
 0
 Number of false positives:
-14
+12
 Probabilty of false positive:
-0.14
+0.12
 False positive elements:
-birds
-feigned
-level
+secretive
+coal
+somber
 nation
-sort
-camp
-whistle
-flat
-light
-business
-object
-careless
-vein
+holistic
+weather
+thinkable
+mix
 brawny
+bite
+daffy
+foot
 
 Phase: 9
 Number of false negatives:
 0
 Number of false positives:
-23
+12
 Probabilty of false positive:
-0.23
+0.12
 False positive elements:
-please
-spotty
-direful
-poised
-heal
-feeling
-old
-announce
-ink
+beg
+long-term
 vanish
-ignorant
-own
+glue
+overflow
 uppity
-lethal
-six
-agreement
-rebel
-bostonian
-turkey
-monkey
+preach
+groan
 awake
-ecco2k
-writing
+curved
+utopian
+condition
 
 Phase: 10
 Number of false negatives:
 0
 Number of false positives:
-43
+20
 Probabilty of false positive:
-0.43
+0.2
 False positive elements:
-far-flung
-unhealthy
-umbrella
-cable
 chubby
-monitor
-pikachu
-noxious
-pass
+station
+ready
 rest
-blastoid
 yak
-mist
-mountainous
-painful
+worm
+knock
 delicate
 puffy
-phone
-serve
-sassy
-inherent
-unnatural
-exotic
 town
+giant
 nose
-gravity
-analyze
-breathe
-signal
-waves
-hummingbird
-female
-humdrum
-trucks
+useless
+bottle
+seashore
 squeak
-strange
-spandex
-courageous
-chief
-agreeable
+acidic
+various
+semaphore
 hideous
-heady
-cause
 
 Number of total false negatives:
 0
 Number of total false positives:
-102
+59
 Probabilty of false positive in total:
-0.102
+0.059

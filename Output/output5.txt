@@ -1,17 +1,18 @@
 Experiment for values of:
 p = 0.1
-c = 5
-d = 1
+c = 1.2
+d = 0.8
 q = 673
 
 Phase: 1
 Number of false negatives:
 0
 Number of false positives:
-0
+1
 Probabilty of false positive:
-0
+0.01
 False positive elements:
+farmer
 
 Phase: 2
 Number of false negatives:
@@ -26,30 +27,26 @@ Phase: 3
 Number of false negatives:
 0
 Number of false positives:
-0
+2
 Probabilty of false positive:
-0
+0.02
 False positive elements:
+raise
+befitting
 
 Phase: 4
 Number of false negatives:
 0
 Number of false positives:
-0
+3
 Probabilty of false positive:
-0
+0.03
 False positive elements:
+debt
+arm
+blow
 
 Phase: 5
-Number of false negatives:
-0
-Number of false positives:
-0
-Probabilty of false positive:
-0
-False positive elements:
-
-Phase: 6
 Number of false negatives:
 0
 Number of false positives:
@@ -57,47 +54,83 @@ Number of false positives:
 Probabilty of false positive:
 0.01
 False positive elements:
-ajar
+tidy
+
+Phase: 6
+Number of false negatives:
+0
+Number of false positives:
+3
+Probabilty of false positive:
+0.03
+False positive elements:
+sisters
+connect
+escape
 
 Phase: 7
 Number of false negatives:
 0
 Number of false positives:
-0
+6
 Probabilty of false positive:
-0
+0.06
 False positive elements:
+carry
+coat
+flippant
+madly
+solaris
+treat
 
 Phase: 8
 Number of false negatives:
 0
 Number of false positives:
-0
+6
 Probabilty of false positive:
-0
+0.06
 False positive elements:
+feeble
+lowly
+prickly
+vein
+daffy
+foot
 
 Phase: 9
 Number of false negatives:
 0
 Number of false positives:
-0
+4
 Probabilty of false positive:
-0
+0.04
 False positive elements:
+poised
+overflow
+past
+drink
 
 Phase: 10
 Number of false negatives:
 0
 Number of false positives:
-0
+8
 Probabilty of false positive:
-0
+0.08
 False positive elements:
+monitor
+delicate
+numerous
+breathe
+unadvised
+bottle
+market
+nonstop
 
 Number of total false negatives:
 0
 Number of total false positives:
-1
+34
 Probabilty of false positive in total:
-0.001
+0.034

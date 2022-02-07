@@ -1,7 +1,7 @@
 Experiment for values of:
 p = 0.1
 c = 1.5
-d = 1.5
+d = 1.1
 q = 673
 
 Phase: 1
@@ -44,36 +44,13 @@ Phase: 5
 Number of false negatives:
 0
 Number of false positives:
-0
+1
 Probabilty of false positive:
-0
+0.01
 False positive elements:
+helpless
 
 Phase: 6
-Number of false negatives:
-0
-Number of false positives:
-4
-Probabilty of false positive:
-0.04
-False positive elements:
-ajar
-crazy
-temper
-special
-
-Phase: 7
-Number of false negatives:
-0
-Number of false positives:
-2
-Probabilty of false positive:
-0.02
-False positive elements:
-pan
-stop
-
-Phase: 8
 Number of false negatives:
 0
 Number of false positives:
@@ -81,22 +58,42 @@ Number of false positives:
 Probabilty of false positive:
 0.01
 False positive elements:
-legal
+temper
+
+Phase: 7
+Number of false negatives:
+0
+Number of false positives:
+5
+Probabilty of false positive:
+0.05
+False positive elements:
+carry
+madly
+immense
+treat
+blue-eyed
+
+Phase: 8
+Number of false negatives:
+0
+Number of false positives:
+0
+Probabilty of false positive:
+0
+False positive elements:
 
 Phase: 9
 Number of false negatives:
 0
 Number of false positives:
-6
+3
 Probabilty of false positive:
-0.06
+0.03
 False positive elements:
-poised
-lethal
-bostonian
-scent
-cap
-ashamed
+snobbish
+overflow
+drink
 
 Phase: 10
 Number of false negatives:
@@ -107,17 +104,17 @@ Probabilty of false positive:
 0.08
 False positive elements:
 chubby
-mist
-delicate
-signal
-hummingbird
-thunder
-fireman
-chief
+phone
+serve
+bottle
+seashore
+market
+debonair
+nonstop
 
 Number of total false negatives:
 0
 Number of total false positives:
-21
+18
 Probabilty of false positive in total:
-0.021
+0.018

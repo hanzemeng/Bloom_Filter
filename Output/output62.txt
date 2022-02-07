@@ -1,7 +1,7 @@
 Experiment for values of:
 p = 0.1
 c = 1.5
-d = 3.5
+d = 3
 q = 673
 
 Phase: 1
@@ -53,95 +53,73 @@ Phase: 6
 Number of false negatives:
 0
 Number of false positives:
-3
+1
 Probabilty of false positive:
-0.03
+0.01
 False positive elements:
-ajar
-plane
-valuable
+carpenter
 
 Phase: 7
 Number of false negatives:
 0
 Number of false positives:
-5
+1
 Probabilty of false positive:
-0.05
+0.01
 False positive elements:
-decisive
-stop
-ruthless
-terrible
-tail
+madly
 
 Phase: 8
 Number of false negatives:
 0
 Number of false positives:
-8
+3
 Probabilty of false positive:
-0.08
+0.03
 False positive elements:
-unique
-level
-sort
-shaggy
-light
+undress
+holistic
 tour
-brawny
-daffy
 
 Phase: 9
 Number of false negatives:
 0
 Number of false positives:
-10
+6
 Probabilty of false positive:
-0.1
+0.06
 False positive elements:
-unlock
-poised
 sail
-wry
-agreement
-brave
-sip
-clip
-awake
-nut
+glue
+overflow
+own
+holiday
+notebook
 
 Phase: 10
 Number of false negatives:
 0
 Number of false positives:
-19
+12
 Probabilty of false positive:
-0.19
+0.12
 False positive elements:
-far-flung
-pass
-money
-mountainous
+station
 delicate
-shelter
-inherent
-thunder
+nose
+gravity
 unadvised
+bottle
+seashore
 trucks
-squeak
-governor
-semaphore
+lie
 courageous
-chief
-market
-health
-faithful
-cause
+frogs
+sleepy
 
 Number of total false negatives:
 0
 Number of total false positives:
-45
+23
 Probabilty of false positive in total:
-0.045
+0.023

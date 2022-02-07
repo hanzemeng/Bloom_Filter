@@ -1,7 +1,7 @@
 Experiment for values of:
 p = 0.1
-c = 0.8
-d = 2.5
+c = 0.9
+d = 1.5
 q = 673
 
 Phase: 1
@@ -17,83 +17,116 @@ Phase: 2
 Number of false negatives:
 0
 Number of false positives:
-0
+2
 Probabilty of false positive:
-0
+0.02
 False positive elements:
+heavenly
+phobic
 
 Phase: 3
 Number of false negatives:
 0
 Number of false positives:
-0
+2
 Probabilty of false positive:
-0
+0.02
 False positive elements:
+amazing
+island
 
 Phase: 4
 Number of false negatives:
 0
 Number of false positives:
-1
+5
 Probabilty of false positive:
-0.01
+0.05
 False positive elements:
-volleyball
+hospitable
+debt
+arm
+blow
+nauseating
 
 Phase: 5
 Number of false negatives:
 0
 Number of false positives:
-3
+5
 Probabilty of false positive:
-0.03
+0.05
 False positive elements:
-heat
-calm
-perform
+trace
+tidy
+tranquil
+front
+helpless
 
 Phase: 6
 Number of false negatives:
 0
 Number of false positives:
-9
+5
 Probabilty of false positive:
-0.09
+0.05
 False positive elements:
-ajar
-crazy
-bliss
-lumber
-flow
-obtainable
-ugliest
-hulking
-cream
+rough
+temper
+man
+yarn
+nebulous
 
 Phase: 7
 Number of false negatives:
 0
 Number of false positives:
-13
+6
 Probabilty of false positive:
-0.13
+0.06
 False positive elements:
-entertaining
-quarter
+carry
+madly
+talented
 stop
-cheer
-buzz
-scene
-innocent
-violent
-pastoral
-dramatic
-tail
-mend
-bright
+spiky
+treat
 
 Phase: 8
+Number of false negatives:
+0
+Number of false positives:
+8
+Probabilty of false positive:
+0.08
+False positive elements:
+attraction
+heron
+lowly
+nation
+street
+accept
+vein
+foot
+
+Phase: 9
+Number of false negatives:
+0
+Number of false positives:
+8
+Probabilty of false positive:
+0.08
+False positive elements:
+eggs
+gifted
+cautious
+overflow
+past
+holiday
+sip
+condition
+
+Phase: 10
 Number of false negatives:
 0
 Number of false positives:
@@ -101,79 +134,20 @@ Number of false positives:
 Probabilty of false positive:
 0.1
 False positive elements:
-distinct
-birds
-legal
-knife
-heron
-spark
-weather
-chivalrous
-business
-concerned
-
-Phase: 9
-Number of false negatives:
-0
-Number of false positives:
-16
-Probabilty of false positive:
-0.16
-False positive elements:
-spotty
-pig
-poised
-heal
-sun
-labored
-refuse
-bostonian
-turkey
-syrup
-monkey
-sip
-cap
-ashamed
-recognise
-utopian
-
-Phase: 10
-Number of false negatives:
-0
-Number of false positives:
-25
-Probabilty of false positive:
-0.25
-False positive elements:
-chubby
-pass
-money
-mist
-painful
-delicate
-sassy
-shelf
+worm
+shelter
 numerous
 loaf
-town
-bit
-breathe
-waves
-hummingbird
-useless
-fireman
-squeak
-strange
-spandex
-courageous
-chief
-nonstop
-hideous
-heady
+unadvised
+female
+trucks
+acidic
+market
+sleepy
 
 Number of total false negatives:
 0
 Number of total false positives:
-77
+51
 Probabilty of false positive in total:
-0.077
+0.051

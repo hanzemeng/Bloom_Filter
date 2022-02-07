@@ -1,7 +1,7 @@
 Experiment for values of:
 p = 0.1
 c = 2
-d = 1.5
+d = 1.1
 q = 673
 
 Phase: 1
@@ -53,12 +53,10 @@ Phase: 6
 Number of false negatives:
 0
 Number of false positives:
-2
+0
 Probabilty of false positive:
-0.02
+0
 False positive elements:
-ajar
-crazy
 
 Phase: 7
 Number of false negatives:
@@ -82,11 +80,12 @@ Phase: 9
 Number of false negatives:
 0
 Number of false positives:
-1
+2
 Probabilty of false positive:
-0.01
+0.02
 False positive elements:
-heal
+overflow
+recognise
 
 Phase: 10
 Number of false negatives:
@@ -96,13 +95,13 @@ Number of false positives:
 Probabilty of false positive:
 0.03
 False positive elements:
-pass
-mist
-fireman
+phone
+numerous
+bottle
 
 Number of total false negatives:
 0
 Number of total false positives:
-6
+5
 Probabilty of false positive in total:
-0.006
+0.005

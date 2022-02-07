@@ -1,7 +1,7 @@
 Experiment for values of:
 p = 0.1
 c = 1.2
-d = 2.5
+d = 1.5
 q = 673
 
 Phase: 1
@@ -26,22 +26,31 @@ Phase: 3
 Number of false negatives:
 0
 Number of false positives:
-1
+0
 Probabilty of false positive:
-0.01
+0
 False positive elements:
-cloth
 
 Phase: 4
 Number of false negatives:
 0
 Number of false positives:
+1
+Probabilty of false positive:
+0.01
+False positive elements:
+blow
+
+Phase: 5
+Number of false negatives:
+0
+Number of false positives:
 0
 Probabilty of false positive:
 0
 False positive elements:
 
-Phase: 5
+Phase: 6
 Number of false negatives:
 0
 Number of false positives:
@@ -49,9 +58,9 @@ Number of false positives:
 Probabilty of false positive:
 0.01
 False positive elements:
-picture
+temper
 
-Phase: 6
+Phase: 7
 Number of false negatives:
 0
 Number of false positives:
@@ -59,23 +68,39 @@ Number of false positives:
 Probabilty of false positive:
 0.04
 False positive elements:
-ajar
-crazy
-wacky
-black
+carry
+liquid
+immense
+treat
 
-Phase: 7
+Phase: 8
 Number of false negatives:
 0
 Number of false positives:
-2
+4
 Probabilty of false positive:
-0.02
+0.04
 False positive elements:
-quarter
-innocent
+lowly
+nation
+prickly
+vein
 
-Phase: 8
+Phase: 9
+Number of false negatives:
+0
+Number of false positives:
+5
+Probabilty of false positive:
+0.05
+False positive elements:
+snobbish
+glue
+overflow
+lethal
+drink
+
+Phase: 10
 Number of false negatives:
 0
 Number of false positives:
@@ -83,58 +108,16 @@ Number of false positives:
 Probabilty of false positive:
 0.06
 False positive elements:
-feigned
-undress
-steady
-chivalrous
-business
-object
-
-Phase: 9
-Number of false negatives:
-0
-Number of false positives:
-9
-Probabilty of false positive:
-0.09
-False positive elements:
-poised
-sail
-own
-uppity
-agreement
-bostonian
-turkey
-awake
-sterile
-
-Phase: 10
-Number of false negatives:
-0
-Number of false positives:
-15
-Probabilty of false positive:
-0.15
-False positive elements:
-cable
-pass
-painful
-spiffy
-delicate
-analyze
+worm
+phone
 breathe
-waves
-hummingbird
-fireman
-humdrum
-trucks
-squeak
-strange
-chief
+bottle
+top
+seashore
 
 Number of total false negatives:
 0
 Number of total false positives:
-38
+21
 Probabilty of false positive in total:
-0.038
+0.021

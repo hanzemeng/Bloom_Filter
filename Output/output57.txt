@@ -1,18 +1,17 @@
 Experiment for values of:
 p = 0.1
-c = 0.5
-d = 3.5
+c = 0.8
+d = 3
 q = 673
 
 Phase: 1
 Number of false negatives:
 0
 Number of false positives:
-1
+0
 Probabilty of false positive:
-0.01
+0
 False positive elements:
-stroke
 
 Phase: 2
 Number of false negatives:
@@ -27,12 +26,11 @@ Phase: 3
 Number of false negatives:
 0
 Number of false positives:
-2
+1
 Probabilty of false positive:
-0.02
+0.01
 False positive elements:
-ask
-tested
+raise
 
 Phase: 4
 Number of false negatives:
@@ -42,70 +40,131 @@ Number of false positives:
 Probabilty of false positive:
 0.04
 False positive elements:
-graceful
-learn
-dusty
-heavy
+arm
+blow
+quartz
+bewildered
 
 Phase: 5
 Number of false negatives:
 0
 Number of false positives:
-17
+6
 Probabilty of false positive:
-0.17
+0.06
 False positive elements:
-green
 inject
-ambiguous
-subdued
-nasty
-file
-heat
-eggnog
-mature
-calm
-tranquil
+tidy
+fix
 thick
 front
-crabby
-delicious
 annoy
-wren
 
 Phase: 6
 Number of false negatives:
 0
 Number of false positives:
-23
+6
 Probabilty of false positive:
-0.23
+0.06
 False positive elements:
-cluttered
-ajar
-wasteful
-crazy
-tart
-bliss
-itch
-puny
-serum
-valuable
-sea
+wholesale
+weigh
 temper
-coast
-vegetable
-string
-team
-black
-sticky
+carpenter
 escape
-dolphin
-ticket
-duck
-desire
+ugliest
 
 Phase: 7
+Number of false negatives:
+0
+Number of false positives:
+20
+Probabilty of false positive:
+0.2
+False positive elements:
+carry
+quarter
+coat
+leather
+madly
+observe
+stop
+premium
+terrible
+itchy
+abashed
+super
+defiant
+mend
+solaris
+treat
+spot
+blue-eyed
+mixer
+jam
+
+Phase: 8
+Number of false negatives:
+0
+Number of false positives:
+16
+Probabilty of false positive:
+0.16
+False positive elements:
+heron
+somber
+lowly
+wind
+undress
+nation
+holistic
+street
+sort
+makeshift
+overwrought
+rule
+brawny
+bite
+daffy
+foot
+
+Phase: 9
+Number of false negatives:
+0
+Number of false positives:
+26
+Probabilty of false positive:
+0.26
+False positive elements:
+onerous
+poised
+heal
+feeling
+clean
+gifted
+nerve
+bikes
+vanish
+ignorant
+glue
+overflow
+uppity
+drink
+syrup
+monkey
+physical
+groan
+notebook
+famous
+fish
+nut
+curved
+adjustment
+condition
+well-made
+
+Phase: 10
 Number of false negatives:
 0
 Number of false positives:
@@ -113,191 +172,40 @@ Number of false positives:
 Probabilty of false positive:
 0.3
 False positive elements:
-entertaining
-pan
-daily
-quarter
-addicted
-successful
-moldy
-stop
-retire
-aback
-quickest
-cheer
-telling
-eatery
-shiver
-label
-accidental
-steep
-quirky
-innocent
-violent
-wriggle
-abashed
-tail
-super
-defiant
-kick
-mend
-bored
-blue-eyed
-
-Phase: 8
-Number of false negatives:
-0
-Number of false positives:
-31
-Probabilty of false positive:
-0.31
-False positive elements:
-afternoon
-distinct
-feeble
-scientific
-legal
-knife
-opposite
-lowly
-undress
-oatmeal
-blimp
-steady
-weather
-program
-things
-stale
-prickly
-flat
-ice
-light
-compete
-flavor
-mix
-business
-object
-careless
-brawny
-stamp
-punishment
-store
-foot
-
-Phase: 9
-Number of false negatives:
-0
-Number of false positives:
-42
-Probabilty of false positive:
-0.42
-False positive elements:
-impolite
-spotty
-unlock
-hurry
-heal
-puzzled
-start
-old
-announce
-sun
-labored
-damage
-refuse
-vanish
-religion
-yam
-ignorant
-wry
-cats
-uppity
-scratch
-stereotyped
-manage
-kindly
-brave
-bostonian
-turkey
-channel
-ghost
-monkey
-sip
-cap
-ashamed
-notebook
-awake
-worry
-thrill
-nut
-sterile
-curved
-utopian
-condition
-
-Phase: 10
-Number of false negatives:
-0
-Number of false positives:
-51
-Probabilty of false positive:
-0.51
-False positive elements:
-far-flung
-umbrella
-cable
 chubby
-one
-pass
-charmander
-rest
+monitor
+ready
 blastoid
-yak
-mist
-mountainous
-knock
-painful
-obtain
-boot
-serve
-sassy
+worm
+judge
+delicate
+blind
+phone
 shelf
 numerous
-exotic
-loaf
-town
 nose
-analyze
-bit
 breathe
-waves
-hummingbird
-thunder
+look
 unadvised
 flanders
-destruction
-fireman
+female
+bottle
 top
-possessive
-humdrum
-trucks
+seashore
 squeak
-protective
-lie
+strange
+acidic
+various
 spandex
-courageous
-chief
+semaphore
 market
-parsimonious
+debonair
+nonstop
 frogs
-hideous
-faithful
-heady
-cause
 
 Number of total false negatives:
 0
 Number of total false positives:
-201
+109
 Probabilty of false positive in total:
-0.201
+0.109

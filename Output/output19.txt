@@ -1,10 +1,39 @@
 Experiment for values of:
 p = 0.1
-c = 0.9
-d = 0.5
+c = 1
+d = 1
 q = 673
 
 Phase: 1
+Number of false negatives:
+0
+Number of false positives:
+0
+Probabilty of false positive:
+0
+False positive elements:
+
+Phase: 2
+Number of false negatives:
+0
+Number of false positives:
+1
+Probabilty of false positive:
+0.01
+False positive elements:
+phobic
+
+Phase: 3
+Number of false negatives:
+0
+Number of false positives:
+1
+Probabilty of false positive:
+0.01
+False positive elements:
+raise
+
+Phase: 4
 Number of false negatives:
 0
 Number of false positives:
@@ -12,24 +41,10 @@ Number of false positives:
 Probabilty of false positive:
 0.02
 False positive elements:
-embarrass
-weary
+debt
+blow
 
-Phase: 2
-Number of false negatives:
-0
-Number of false positives:
-5
-Probabilty of false positive:
-0.05
-False positive elements:
-reading
-sniff
-sign
-person
-behave
-
-Phase: 3
+Phase: 5
 Number of false negatives:
 0
 Number of false positives:
@@ -37,12 +52,25 @@ Number of false positives:
 Probabilty of false positive:
 0.04
 False positive elements:
-shut
-doubt
-wiggly
-dreary
+trace
+crib
+front
+helpless
 
-Phase: 4
+Phase: 6
+Number of false negatives:
+0
+Number of false positives:
+4
+Probabilty of false positive:
+0.04
+False positive elements:
+sisters
+temper
+escape
+structure
+
+Phase: 7
 Number of false negatives:
 0
 Number of false positives:
@@ -50,11 +78,45 @@ Number of false positives:
 Probabilty of false positive:
 0.03
 False positive elements:
-hunt
-hilarious
-dusty
+carry
+madly
+treat
 
-Phase: 5
+Phase: 8
+Number of false negatives:
+0
+Number of false positives:
+7
+Probabilty of false positive:
+0.07
+False positive elements:
+coal
+lowly
+overwrought
+women
+activity
+daffy
+foot
+
+Phase: 9
+Number of false negatives:
+0
+Number of false positives:
+9
+Probabilty of false positive:
+0.09
+False positive elements:
+clean
+snobbish
+sail
+overflow
+past
+own
+bostonian
+drink
+ashamed
+
+Phase: 10
 Number of false negatives:
 0
 Number of false positives:
@@ -62,152 +124,18 @@ Number of false positives:
 Probabilty of false positive:
 0.08
 False positive elements:
-file
-political
-heat
-able
-mature
-neat
-plug
-front
-
-Phase: 6
-Number of false negatives:
-0
-Number of false positives:
-20
-Probabilty of false positive:
-0.2
-False positive elements:
-cluttered
-ajar
-crazy
-obsequious
-itch
-reject
-fallacious
-wacky
-temper
-man
-guide
-gruesome
-escape
-ticket
-crawl
-lame
-structure
-vagabond
-hulking
-desire
-
-Phase: 7
-Number of false negatives:
-0
-Number of false positives:
-13
-Probabilty of false positive:
-0.13
-False positive elements:
-daily
-moldy
-aback
-ruthless
-telling
-itchy
-accidental
-number
-steep
-mushy
-scene
-innocent
-jam
-
-Phase: 8
-Number of false negatives:
-0
-Number of false positives:
-23
-Probabilty of false positive:
-0.23
-False positive elements:
-attraction
-distinct
-gaze
-birds
-scientific
-feigned
-lowly
-undress
-oatmeal
-steady
-street
-squirrel
-makeshift
-ice
-overwrought
-shrill
-stampede
-grumpy
-chivalrous
-mix
-business
-object
-punishment
-
-Phase: 9
-Number of false negatives:
-0
-Number of false positives:
-15
-Probabilty of false positive:
-0.15
-False positive elements:
-honey
-spotty
-heal
-beg
-start
-announce
-damage
-refuse
-vanish
-poison
-syrup
-worry
-nut
-curved
-fragile
-
-Phase: 10
-Number of false negatives:
-0
-Number of false positives:
-18
-Probabilty of false positive:
-0.18
-False positive elements:
-noxious
-pass
-delicate
-inherent
-unnatural
 numerous
-nose
-flanders
+loaf
+town
+bit
+unadvised
 bottle
-fireman
 squeak
 protective
-lie
-courageous
-chief
-market
-scribble
-cause
 
 Number of total false negatives:
 0
 Number of total false positives:
-111
+39
 Probabilty of false positive in total:
-0.111
+0.039

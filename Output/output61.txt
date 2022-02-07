@@ -1,7 +1,7 @@
 Experiment for values of:
 p = 0.1
 c = 1.2
-d = 3.5
+d = 3
 q = 673
 
 Phase: 1
@@ -48,23 +48,31 @@ Number of false positives:
 Probabilty of false positive:
 0.01
 False positive elements:
-picture
+sneeze
 
 Phase: 6
 Number of false negatives:
 0
 Number of false positives:
-5
+1
 Probabilty of false positive:
-0.05
+0.01
 False positive elements:
-ajar
-plane
-sea
-grouchy
-ticket
+obsequious
 
 Phase: 7
+Number of false negatives:
+0
+Number of false positives:
+3
+Probabilty of false positive:
+0.03
+False positive elements:
+carry
+sweater
+super
+
+Phase: 8
 Number of false negatives:
 0
 Number of false positives:
@@ -72,84 +80,58 @@ Number of false positives:
 Probabilty of false positive:
 0.07
 False positive elements:
-pan
-queue
-madly
-quirky
-innocent
-wash
-kick
-
-Phase: 8
-Number of false negatives:
-0
-Number of false positives:
-9
-Probabilty of false positive:
-0.09
-False positive elements:
-scientific
-feigned
-undress
-short
-steady
-accept
-whistle
-careless
-brawny
+holistic
+thinkable
+general
+vein
+cover
+daffy
+foot
 
 Phase: 9
 Number of false negatives:
 0
 Number of false positives:
-11
+7
 Probabilty of false positive:
-0.11
+0.07
 False positive elements:
-poised
-heal
-beg
-vanish
-ignorant
-agreement
-rebel
-poison
-monkey
-cap
-sterile
+nerve
+snobbish
+overflow
+lethal
+bostonian
+curved
+fragile
 
 Phase: 10
 Number of false negatives:
 0
 Number of false positives:
-20
+16
 Probabilty of false positive:
-0.2
+0.16
 False positive elements:
-cable
-pikachu
-pass
-mist
-painful
+mountainous
 delicate
-phone
-breathe
+serve
+visitor
+town
+aberrant
+nose
 waves
-hummingbird
-destruction
-exclusive
-squeak
-strange
-protective
+unadvised
+fireman
+seashore
+possessive
+humdrum
+acidic
 spandex
-semaphore
-chief
-parsimonious
-cause
+market
 
 Number of total false negatives:
 0
 Number of total false positives:
-53
+35
 Probabilty of false positive in total:
-0.053
+0.035

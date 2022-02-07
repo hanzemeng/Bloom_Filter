@@ -1,7 +1,7 @@
 Experiment for values of:
 p = 0.1
 c = 1.1
-d = 3
+d = 2
 q = 673
 
 Phase: 1
@@ -44,39 +44,22 @@ Phase: 5
 Number of false negatives:
 0
 Number of false positives:
-2
+0
 Probabilty of false positive:
-0.02
+0
 False positive elements:
-heat
-calm
 
 Phase: 6
 Number of false negatives:
 0
 Number of false positives:
-3
+1
 Probabilty of false positive:
-0.03
+0.01
 False positive elements:
-ajar
-ticket
-cream
+temper
 
 Phase: 7
-Number of false negatives:
-0
-Number of false positives:
-4
-Probabilty of false positive:
-0.04
-False positive elements:
-quarter
-intelligent
-stop
-mend
-
-Phase: 8
 Number of false negatives:
 0
 Number of false positives:
@@ -84,68 +67,66 @@ Number of false positives:
 Probabilty of false positive:
 0.05
 False positive elements:
-level
-flavor
-business
-object
-brawny
+carry
+talented
+itchy
+super
+bored
+
+Phase: 8
+Number of false negatives:
+0
+Number of false positives:
+4
+Probabilty of false positive:
+0.04
+False positive elements:
+sort
+thinkable
+bite
+daffy
 
 Phase: 9
 Number of false negatives:
 0
 Number of false positives:
-10
+7
 Probabilty of false positive:
-0.1
+0.07
 False positive elements:
-poised
-heal
-ink
-ignorant
-wry
-cats
+vanish
+overflow
 uppity
-agreement
-turkey
-scent
+brave
+monkey
+recognise
+curved
 
 Phase: 10
 Number of false negatives:
 0
 Number of false positives:
-25
+13
 Probabilty of false positive:
-0.25
+0.13
 False positive elements:
-tin
+monitor
 pass
-rest
 yak
-mist
-mountainous
 painful
-popcorn
 delicate
+phone
 numerous
-analyze
-bit
 breathe
-waves
-hummingbird
-fireman
-top
-humdrum
-squeak
-lie
-chief
-nonstop
-agreeable
-heady
-cause
+unadvised
+bottle
+seashore
+acidic
+semaphore
 
 Number of total false negatives:
 0
 Number of total false positives:
-49
+30
 Probabilty of false positive in total:
-0.049
+0.03

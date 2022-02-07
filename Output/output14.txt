@@ -1,7 +1,7 @@
 Experiment for values of:
 p = 0.1
-c = 1
-d = 3
+c = 1.5
+d = 0.9
 q = 673
 
 Phase: 1
@@ -35,12 +35,24 @@ Phase: 4
 Number of false negatives:
 0
 Number of false positives:
-0
+1
 Probabilty of false positive:
-0
+0.01
 False positive elements:
+debt
 
 Phase: 5
+Number of false negatives:
+0
+Number of false positives:
+2
+Probabilty of false positive:
+0.02
+False positive elements:
+tidy
+helpless
+
+Phase: 6
 Number of false negatives:
 0
 Number of false positives:
@@ -48,125 +60,66 @@ Number of false positives:
 Probabilty of false positive:
 0.01
 False positive elements:
-front
-
-Phase: 6
-Number of false negatives:
-0
-Number of false positives:
-8
-Probabilty of false positive:
-0.08
-False positive elements:
-ajar
-wasteful
-crazy
-bliss
-coast
-black
-ugliest
-alive
+temper
 
 Phase: 7
 Number of false negatives:
 0
 Number of false positives:
-8
+7
 Probabilty of false positive:
-0.08
+0.07
 False positive elements:
-quarter
-stop
-quickest
-cheer
-quirky
-pastoral
-bloody
-mend
+carry
+flippant
+madly
+talented
+spiky
+treat
+blue-eyed
 
 Phase: 8
 Number of false negatives:
 0
 Number of false positives:
-8
+4
 Probabilty of false positive:
-0.08
+0.04
 False positive elements:
-coal
-legal
-level
-undress
-heartbreaking
-business
-object
-brawny
+attraction
+feeble
+heron
+short
 
 Phase: 9
 Number of false negatives:
 0
 Number of false positives:
-16
+4
 Probabilty of false positive:
-0.16
+0.04
 False positive elements:
-spotty
-direful
-heal
-old
-announce
-vanish
-ignorant
-wry
-own
-lethal
-manage
-bostonian
+gifted
+snobbish
+overflow
 drink
-syrup
-ghost
-scent
 
 Phase: 10
 Number of false negatives:
 0
 Number of false positives:
-29
+4
 Probabilty of false positive:
-0.29
+0.04
 False positive elements:
-far-flung
-join
-chubby
-one
-pass
-rest
-mist
-painful
-spiffy
-popcorn
-delicate
 numerous
-loaf
-town
-analyze
-breathe
-waves
-hummingbird
-useless
-fireman
-seashore
-humdrum
-trucks
-squeak
-protective
-lie
-chief
-agreeable
-heady
+bottle
+market
+nonstop
 
 Number of total false negatives:
 0
 Number of total false positives:
-70
+23
 Probabilty of false positive in total:
-0.07
+0.023

@@ -1,7 +1,7 @@
 Experiment for values of:
 p = 0.1
 c = 1.2
-d = 3
+d = 2
 q = 673
 
 Phase: 1
@@ -44,27 +44,34 @@ Phase: 5
 Number of false negatives:
 0
 Number of false positives:
-1
+0
 Probabilty of false positive:
-0.01
+0
 False positive elements:
-picture
 
 Phase: 6
 Number of false negatives:
 0
 Number of false positives:
-5
+1
 Probabilty of false positive:
-0.05
+0.01
 False positive elements:
-ajar
-black
-ticket
-ugliest
-alive
+connect
 
 Phase: 7
+Number of false negatives:
+0
+Number of false positives:
+3
+Probabilty of false positive:
+0.03
+False positive elements:
+carry
+bloody
+defiant
+
+Phase: 8
 Number of false negatives:
 0
 Number of false positives:
@@ -72,26 +79,24 @@ Number of false positives:
 Probabilty of false positive:
 0.02
 False positive elements:
-madly
-terrific
+holistic
+daffy
 
-Phase: 8
+Phase: 9
 Number of false negatives:
 0
 Number of false positives:
-7
+5
 Probabilty of false positive:
-0.07
+0.05
 False positive elements:
-feigned
-undress
-short
-weak
-accept
-whistle
-object
+nerve
+overflow
+lethal
+drink
+monkey
 
-Phase: 9
+Phase: 10
 Number of false negatives:
 0
 Number of false positives:
@@ -99,41 +104,19 @@ Number of false positives:
 Probabilty of false positive:
 0.09
 False positive elements:
-poised
-vanish
-uppity
-lethal
-agreement
-turkey
-monkey
-thrill
-sterile
-
-Phase: 10
-Number of false negatives:
-0
-Number of false positives:
-13
-Probabilty of false positive:
-0.13
-False positive elements:
-cable
-pikachu
-pass
-mist
-painful
-hover
-giant
-breathe
-waves
-hummingbird
-squeak
-strange
-chief
+judge
+phone
+nose
+bottle
+seashore
+acidic
+spandex
+semaphore
+nonstop
 
 Number of total false negatives:
 0
 Number of total false positives:
-37
+20
 Probabilty of false positive in total:
-0.037
+0.02

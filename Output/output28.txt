@@ -1,7 +1,7 @@
 Experiment for values of:
 p = 0.1
 c = 1.1
-d = 1.5
+d = 1.1
 q = 673
 
 Phase: 1
@@ -17,21 +17,13 @@ Phase: 2
 Number of false negatives:
 0
 Number of false positives:
-0
+1
 Probabilty of false positive:
-0
+0.01
 False positive elements:
+phobic
 
 Phase: 3
-Number of false negatives:
-0
-Number of false positives:
-0
-Probabilty of false positive:
-0
-False positive elements:
-
-Phase: 4
 Number of false negatives:
 0
 Number of false positives:
@@ -39,65 +31,89 @@ Number of false positives:
 Probabilty of false positive:
 0.01
 False positive elements:
-graceful
+raise
+
+Phase: 4
+Number of false negatives:
+0
+Number of false positives:
+2
+Probabilty of false positive:
+0.02
+False positive elements:
+hospitable
+blow
 
 Phase: 5
 Number of false negatives:
 0
 Number of false positives:
-3
+4
 Probabilty of false positive:
-0.03
+0.04
 False positive elements:
-married
-heat
-calm
+mature
+tidy
+front
+helpless
 
 Phase: 6
 Number of false negatives:
 0
 Number of false positives:
-3
+1
 Probabilty of false positive:
-0.03
+0.01
 False positive elements:
-ajar
-crazy
-ugliest
+temper
 
 Phase: 7
 Number of false negatives:
 0
 Number of false positives:
-8
+11
 Probabilty of false positive:
-0.08
+0.11
 False positive elements:
-entertaining
+carry
 quarter
-moldy
-quickest
-innocent
-violent
-super
-mend
+flippant
+madly
+talented
+arch
+spiky
+itchy
+defiant
+solaris
+treat
 
 Phase: 8
 Number of false negatives:
 0
 Number of false positives:
-6
+4
 Probabilty of false positive:
-0.06
+0.04
 False positive elements:
-feeble
-legal
+lowly
 undress
-light
-business
-object
+nation
+vein
 
 Phase: 9
+Number of false negatives:
+0
+Number of false positives:
+4
+Probabilty of false positive:
+0.04
+False positive elements:
+snobbish
+overflow
+uppity
+kindly
+
+Phase: 10
 Number of false negatives:
 0
 Number of false positives:
@@ -105,35 +121,17 @@ Number of false positives:
 Probabilty of false positive:
 0.07
 False positive elements:
-heal
-labored
-syrup
-ghost
-cap
-worry
-utopian
-
-Phase: 10
-Number of false negatives:
-0
-Number of false positives:
-9
-Probabilty of false positive:
-0.09
-False positive elements:
-chubby
-pass
-rest
+judge
+shelter
 numerous
-thunder
+unadvised
+bottle
 fireman
-squeak
-heady
-cause
+nonstop
 
 Number of total false negatives:
 0
 Number of total false positives:
-37
+35
 Probabilty of false positive in total:
-0.037
+0.035

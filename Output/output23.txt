@@ -1,18 +1,17 @@
 Experiment for values of:
 p = 0.1
 c = 2
-d = 0.5
+d = 1
 q = 673
 
 Phase: 1
 Number of false negatives:
 0
 Number of false positives:
-1
+0
 Probabilty of false positive:
-0.01
+0
 False positive elements:
-embarrass
 
 Phase: 2
 Number of false negatives:
@@ -54,12 +53,10 @@ Phase: 6
 Number of false negatives:
 0
 Number of false positives:
-2
+0
 Probabilty of false positive:
-0.02
+0
 False positive elements:
-ajar
-crazy
 
 Phase: 7
 Number of false negatives:
@@ -74,40 +71,35 @@ Phase: 8
 Number of false negatives:
 0
 Number of false positives:
-1
+0
 Probabilty of false positive:
-0.01
+0
 False positive elements:
-undress
 
 Phase: 9
 Number of false negatives:
 0
 Number of false positives:
-4
+1
 Probabilty of false positive:
-0.04
+0.01
 False positive elements:
-vanish
-syrup
-worry
-utopian
+overflow
 
 Phase: 10
 Number of false negatives:
 0
 Number of false positives:
-3
+2
 Probabilty of false positive:
-0.03
+0.02
 False positive elements:
-mist
-numerous
-courageous
+phone
+bottle
 
 Number of total false negatives:
 0
 Number of total false positives:
-11
+3
 Probabilty of false positive in total:
-0.011
+0.003

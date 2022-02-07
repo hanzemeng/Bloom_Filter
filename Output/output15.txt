@@ -1,7 +1,7 @@
 Experiment for values of:
 p = 0.1
-c = 1
-d = 3.5
+c = 2
+d = 0.9
 q = 673
 
 Phase: 1
@@ -44,135 +44,65 @@ Phase: 5
 Number of false negatives:
 0
 Number of false positives:
-0
+1
 Probabilty of false positive:
-0
+0.01
 False positive elements:
+helpless
 
 Phase: 6
 Number of false negatives:
 0
 Number of false positives:
-6
+1
 Probabilty of false positive:
-0.06
+0.01
 False positive elements:
-ajar
-wasteful
-coast
-black
-ticket
-ugliest
+temper
 
 Phase: 7
 Number of false negatives:
 0
 Number of false positives:
-5
+1
 Probabilty of false positive:
-0.05
+0.01
 False positive elements:
-decisive
-stop
-quirky
-pastoral
-bloody
+immense
 
 Phase: 8
 Number of false negatives:
 0
 Number of false positives:
-12
+0
 Probabilty of false positive:
-0.12
+0
 False positive elements:
-coal
-legal
-feigned
-level
-undress
-weak
-accept
-heartbreaking
-mix
-business
-object
-brawny
 
 Phase: 9
 Number of false negatives:
 0
 Number of false positives:
-20
+1
 Probabilty of false positive:
-0.2
+0.01
 False positive elements:
-unlock
-direful
-poised
-feeling
-beg
-announce
-snobbish
-vanish
-ignorant
-wry
-uppity
-lethal
-drink
-syrup
-ghost
-scent
-monkey
-groan
-thrill
-utopian
+overflow
 
 Phase: 10
 Number of false negatives:
 0
 Number of false positives:
-33
+2
 Probabilty of false positive:
-0.33
+0.02
 False positive elements:
-far-flung
-cable
-join
-chubby
-one
-pikachu
-noxious
-pass
-rest
-mist
-painful
-delicate
-puffy
 phone
-numerous
-exotic
-loaf
-town
-aberrant
-giant
-nose
-analyze
-breathe
-signal
-waves
-hummingbird
-useless
-fireman
-trucks
-squeak
-lie
-chief
-heady
+acidic
 
 Number of total false negatives:
 0
 Number of total false positives:
-76
+6
 Probabilty of false positive in total:
-0.076
+0.006

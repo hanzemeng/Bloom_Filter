@@ -1,28 +1,26 @@
 Experiment for values of:
 p = 0.1
-c = 0.5
-d = 3
+c = 0.8
+d = 2
 q = 673
 
 Phase: 1
 Number of false negatives:
 0
 Number of false positives:
-1
+0
 Probabilty of false positive:
-0.01
+0
 False positive elements:
-stroke
 
 Phase: 2
 Number of false negatives:
 0
 Number of false positives:
-1
+0
 Probabilty of false positive:
-0.01
+0
 False positive elements:
-welcome
 
 Phase: 3
 Number of false negatives:
@@ -32,251 +30,151 @@ Number of false positives:
 Probabilty of false positive:
 0.02
 False positive elements:
-ask
-tested
+raise
+tom
 
 Phase: 4
 Number of false negatives:
 0
 Number of false positives:
-7
+2
 Probabilty of false positive:
-0.07
+0.02
 False positive elements:
-creature
-graceful
-giraffe
-dusty
-quartz
-heavy
-tenuous
+arm
+blow
 
 Phase: 5
 Number of false negatives:
 0
 Number of false positives:
-19
+4
 Probabilty of false positive:
-0.19
+0.04
 False positive elements:
-green
-inject
-nasty
-file
-heat
-mature
-polite
-calm
-room
-silk
-tranquil
-fix
-thick
-damaging
+trace
 front
-crabby
-delicious
 annoy
-wren
+helpless
 
 Phase: 6
 Number of false negatives:
 0
 Number of false positives:
-22
+8
 Probabilty of false positive:
-0.22
+0.08
 False positive elements:
-cluttered
-ajar
-wasteful
-crazy
-bliss
-itch
-puny
-serum
-valuable
-sea
+weigh
 temper
-man
-vegetable
-string
-team
-black
-obtainable
+coast
+connect
 escape
-dolphin
-duck
-special
-desire
+stint
+ugliest
+wing
 
 Phase: 7
 Number of false negatives:
 0
 Number of false positives:
-24
+15
 Probabilty of false positive:
-0.24
+0.15
 False positive elements:
-pan
-daily
-addicted
-moldy
+carry
+madly
+talented
 stop
-retire
-quickest
-cheer
-telling
-eatery
-shiver
-label
-steep
-horrible
-mushy
-innocent
-violent
-wriggle
+premium
+terrible
+extra-small
 abashed
-tail
-kick
-mend
-spoof
+super
+defiant
+solaris
+immense
+spot
 blue-eyed
+agonizing
 
 Phase: 8
 Number of false negatives:
 0
 Number of false positives:
-24
+10
 Probabilty of false positive:
-0.24
+0.1
 False positive elements:
-bedroom
-afternoon
+evasive
 feeble
-scientific
-legal
-knife
-stravinsky
+heron
 lowly
+wind
 undress
-blimp
-steady
-things
-stale
-ice
-flavor
-mix
-business
-object
-careless
+street
+overwrought
+rule
 vein
-brawny
-stamp
-punishment
-basketball
 
 Phase: 9
 Number of false negatives:
 0
 Number of false positives:
-39
+20
 Probabilty of false positive:
-0.39
+0.2
 False positive elements:
-spotty
-unlock
-hurry
-heal
-puzzled
-cayenne
-start
-old
-announce
-sun
-labored
-damage
-ink
+onerous
+poised
+gifted
+bikes
+snobbish
 vanish
-religion
-yam
-ignorant
-cats
+sail
+overflow
+wry
 uppity
-stereotyped
 kindly
-brave
-bostonian
 drink
-ghost
-monkey
+turkey
+syrup
 sip
-clip
-cap
-ashamed
-awake
-worry
-practice
-thrill
-eight
-nut
-sterile
+famous
 curved
 utopian
+adjustment
+well-made
 
 Phase: 10
 Number of false negatives:
 0
 Number of false positives:
-41
+17
 Probabilty of false positive:
-0.41
+0.17
 False positive elements:
-unhealthy
-umbrella
-cable
 chubby
-one
-pass
-charmander
-blastoid
-mist
-mountainous
-knock
-painful
-spiffy
-obtain
-delicate
-boot
-serve
+monitor
+worm
+phone
 shelf
 numerous
-loaf
-analyze
-bit
-waves
-hummingbird
-thunder
+nose
 unadvised
 bottle
-fireman
-possessive
-squeak
-governor
-lie
-spandex
-courageous
-chief
+top
+seashore
+humdrum
+strange
+various
 market
-frogs
-hideous
-faithful
-heady
-cause
+debonair
+nonstop
 
 Number of total false negatives:
 0
 Number of total false positives:
-180
+78
 Probabilty of false positive in total:
-0.18
+0.078

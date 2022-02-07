@@ -11,6 +11,11 @@ void BloomFilter::print() // debugging only
 {
     std::cout << "bloomFilterSize: " << filter.size() << std::endl;
     std::cout << "hashFunctionSize: " << hashFunctionSize << std::endl;
+    for(bool b : filter)
+    {
+        std::cout << b;
+    }
+    std::cout << std::endl;
 }
 
 void BloomFilter::insert(std::string element)

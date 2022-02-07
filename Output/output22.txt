@@ -1,7 +1,7 @@
 Experiment for values of:
 p = 0.1
 c = 1.5
-d = 0.5
+d = 1
 q = 673
 
 Phase: 1
@@ -17,76 +17,52 @@ Phase: 2
 Number of false negatives:
 0
 Number of false positives:
-1
+0
 Probabilty of false positive:
-0.01
+0
 False positive elements:
-reading
 
 Phase: 3
 Number of false negatives:
 0
 Number of false positives:
-2
+0
 Probabilty of false positive:
-0.02
+0
 False positive elements:
-shut
-large
 
 Phase: 4
 Number of false negatives:
 0
 Number of false positives:
-2
+1
 Probabilty of false positive:
-0.02
+0.01
 False positive elements:
-giraffe
-hunt
+debt
 
 Phase: 5
 Number of false negatives:
 0
 Number of false positives:
-3
+2
 Probabilty of false positive:
-0.03
+0.02
 False positive elements:
-file
-political
-heat
+tidy
+helpless
 
 Phase: 6
 Number of false negatives:
 0
 Number of false positives:
-8
+1
 Probabilty of false positive:
-0.08
+0.01
 False positive elements:
-cluttered
-ajar
-crazy
-itch
 temper
-crawl
-hulking
-desire
 
 Phase: 7
-Number of false negatives:
-0
-Number of false positives:
-3
-Probabilty of false positive:
-0.03
-False positive elements:
-number
-innocent
-tail
-
-Phase: 8
 Number of false negatives:
 0
 Number of false positives:
@@ -94,51 +70,56 @@ Number of false positives:
 Probabilty of false positive:
 0.07
 False positive elements:
-unique
-distinct
-accept
-flat
-grumpy
-punishment
-daffy
+carry
+flippant
+madly
+talented
+spiky
+treat
+blue-eyed
+
+Phase: 8
+Number of false negatives:
+0
+Number of false positives:
+4
+Probabilty of false positive:
+0.04
+False positive elements:
+attraction
+feeble
+heron
+short
 
 Phase: 9
 Number of false negatives:
 0
 Number of false positives:
-8
+4
 Probabilty of false positive:
-0.08
+0.04
 False positive elements:
-direful
-ink
-sail
-stereotyped
-syrup
-sip
-nut
-utopian
+gifted
+snobbish
+overflow
+drink
 
 Phase: 10
 Number of false negatives:
 0
 Number of false positives:
-8
+4
 Probabilty of false positive:
-0.08
+0.04
 False positive elements:
-pass
-mist
-giant
-squeak
-protective
-chief
-health
-cause
+numerous
+bottle
+market
+nonstop
 
 Number of total false negatives:
 0
 Number of total false positives:
-42
+23
 Probabilty of false positive in total:
-0.042
+0.023

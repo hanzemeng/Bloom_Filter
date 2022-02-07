@@ -1,72 +1,75 @@
 Experiment for values of:
 p = 0.1
-c = 1
-d = 2
+c = 1.1
+d = 0.9
 q = 673
 
 Phase: 1
 Number of false negatives:
 0
 Number of false positives:
-0
+1
 Probabilty of false positive:
-0
+0.01
 False positive elements:
+farmer
 
 Phase: 2
 Number of false negatives:
 0
 Number of false positives:
-0
+2
 Probabilty of false positive:
-0
+0.02
 False positive elements:
+phobic
+print
 
 Phase: 3
 Number of false negatives:
 0
 Number of false positives:
-0
+1
 Probabilty of false positive:
-0
+0.01
 False positive elements:
+raise
 
 Phase: 4
 Number of false negatives:
 0
 Number of false positives:
-0
+1
 Probabilty of false positive:
-0
+0.01
 False positive elements:
+blow
 
 Phase: 5
 Number of false negatives:
 0
 Number of false positives:
-0
+5
 Probabilty of false positive:
-0
+0.05
 False positive elements:
+tidy
+tranquil
+front
+annoy
+helpless
 
 Phase: 6
 Number of false negatives:
 0
 Number of false positives:
-10
+3
 Probabilty of false positive:
-0.1
+0.03
 False positive elements:
-ajar
-wasteful
-plane
-crazy
-bliss
-itch
-coast
-black
-ugliest
-hulking
+sisters
+temper
+escape
 
 Phase: 7
 Number of false negatives:
@@ -76,74 +79,66 @@ Number of false positives:
 Probabilty of false positive:
 0.07
 False positive elements:
-entertaining
+carry
 quarter
-moldy
-stop
-cheer
-airplane
-pastoral
+coat
+flippant
+madly
+solaris
+treat
 
 Phase: 8
 Number of false negatives:
 0
 Number of false positives:
-5
+9
 Probabilty of false positive:
-0.05
+0.09
 False positive elements:
-distinct
+attraction
+feeble
 coal
-scientific
-legal
-light
+relax
+lowly
+prickly
+activity
+vein
+daffy
 
 Phase: 9
 Number of false negatives:
 0
 Number of false positives:
-10
+4
 Probabilty of false positive:
-0.1
+0.04
 False positive elements:
-direful
-heal
-vanish
-wry
-lethal
-syrup
-ghost
-scent
-cap
-utopian
+clean
+snobbish
+overflow
+rebel
 
 Phase: 10
 Number of false negatives:
 0
 Number of false positives:
-15
+9
 Probabilty of false positive:
-0.15
+0.09
 False positive elements:
-far-flung
-chubby
-one
-pass
-mist
+pikachu
 delicate
+phone
 numerous
-town
-analyze
-hummingbird
-thunder
+unadvised
+bottle
 fireman
-humdrum
-squeak
-cause
+market
+nonstop
 
 Number of total false negatives:
 0
 Number of total false positives:
-47
+42
 Probabilty of false positive in total:
-0.047
+0.042

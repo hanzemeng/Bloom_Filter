@@ -1,7 +1,7 @@
 Experiment for values of:
 p = 0.1
-c = 5
-d = 3.5
+c = 3
+d = 3
 q = 673
 
 Phase: 1
@@ -53,11 +53,10 @@ Phase: 6
 Number of false negatives:
 0
 Number of false positives:
-1
+0
 Probabilty of false positive:
-0.01
+0
 False positive elements:
-ajar
 
 Phase: 7
 Number of false negatives:
@@ -90,16 +89,15 @@ Phase: 10
 Number of false negatives:
 0
 Number of false positives:
-2
+1
 Probabilty of false positive:
-0.02
+0.01
 False positive elements:
-protective
-market
+numerous
 
 Number of total false negatives:
 0
 Number of total false positives:
-3
+1
 Probabilty of false positive in total:
-0.003
+0.001
